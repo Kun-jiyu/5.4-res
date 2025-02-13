@@ -1,0 +1,64 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Xingqiu_ExtraAttack",
+      "abilityName": "Avatar_Xingqiu_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xingqiu_Spoondrift",
+      "abilityName": "Avatar_Xingqiu_Spoondrift",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xingqiu_PhantomShield",
+      "abilityName": "Avatar_Xingqiu_PhantomShield",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xingqiu_Minazuki",
+      "abilityName": "Avatar_Xingqiu_Minazuki",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xingqiu_Minazuki_Attack01",
+      "abilityName": "Avatar_Xingqiu_Minazuki_Attack01",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xingqiu_Minazuki_Attack02",
+      "abilityName": "Avatar_Xingqiu_Minazuki_Attack02",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xingqiu_Minazuki_Attack03",
+      "abilityName": "Avatar_Xingqiu_Minazuki_Attack03",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xingqiu_PhantomBurst_GainEnergy",
+      "abilityName": "Avatar_Xingqiu_PhantomBurst_GainEnergy",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xingqiu_DamageHandler",
+      "abilityName": "Avatar_Xingqiu_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xingqiu_FallingAnthem",
+      "abilityName": "Avatar_Xingqiu_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_ResetFreeStyle",
+      "abilityName": "Avatar_ResetFreeStyle",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Boy_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Boy_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Mizuki_NormalAttack_Bullet_1_Damage",
+      "abilityName": "Avatar_Mizuki_NormalAttack_Bullet_1_Damage",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mizuki_NormalAttack_Bullet_2_Damage",
+      "abilityName": "Avatar_Mizuki_NormalAttack_Bullet_2_Damage",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mizuki_NormalAttack_Bullet_3_Damage",
+      "abilityName": "Avatar_Mizuki_NormalAttack_Bullet_3_Damage",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mizuki_ExtraAttack_Initiate",
+      "abilityName": "Avatar_Mizuki_ExtraAttack_Initiate",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mizuki_ExtraAttack",
+      "abilityName": "Avatar_Mizuki_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mizuki_FallingAnthem",
+      "abilityName": "Avatar_Mizuki_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mizuki_ElementalArt_WindAttack_Attacker",
+      "abilityName": "Avatar_Mizuki_ElementalArt_WindAttack_Attacker",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mizuki_MasteryToSwirhurt",
+      "abilityName": "Avatar_Mizuki_MasteryToSwirhurt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mizuki_ElementalArt",
+      "abilityName": "Avatar_Mizuki_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mizuki_ElementalBurst",
+      "abilityName": "Avatar_Mizuki_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mizuki_Talent_1_New",
+      "abilityName": "Avatar_Mizuki_Talent_1_New",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mizuki_Talent_2",
+      "abilityName": "Avatar_Mizuki_Talent_2",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mizuki_Talent_6",
+      "abilityName": "Avatar_Mizuki_Talent_6",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mizuki_ElementalArt_Sprint",
+      "abilityName": "Avatar_Mizuki_ElementalArt_Sprint",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mizuki_PermanentSkill_2",
+      "abilityName": "Avatar_Mizuki_PermanentSkill_2",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mizuki_PermanentSkill_3",
+      "abilityName": "Avatar_Mizuki_PermanentSkill_3",
+      "abilityOverride": ""
+    }
+  ]
+}

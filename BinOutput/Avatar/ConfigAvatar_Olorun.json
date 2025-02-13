@@ -1,0 +1,99 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Olorun_PressShoot",
+      "abilityName": "Avatar_Olorun_PressShoot",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Olorun_AimPressShoot",
+      "abilityName": "Avatar_Olorun_AimPressShoot",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Olorun_ShootArrow_01",
+      "abilityName": "Avatar_Olorun_ShootArrow_01",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Olorun_ShootArrow_02",
+      "abilityName": "Avatar_Olorun_ShootArrow_02",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Olorun_ShootArrow_03",
+      "abilityName": "Avatar_Olorun_ShootArrow_03",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Olorun_Arrow_FX",
+      "abilityName": "Avatar_Olorun_Arrow_FX",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Olorun_ShootAimingArrow_Charge",
+      "abilityName": "Avatar_Olorun_ShootAimingArrow_Charge",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Olorun_ShootArrow_Aiming",
+      "abilityName": "Avatar_Olorun_ShootArrow_Aiming",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Olorun_ElementalArt",
+      "abilityName": "Avatar_Olorun_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Olorun_ElementalArt_DropBall",
+      "abilityName": "Avatar_Olorun_ElementalArt_DropBall",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Olorun_FallingAnthem_AirEye",
+      "abilityName": "Avatar_Olorun_FallingAnthem_AirEye",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Olorun_FallingAnthem",
+      "abilityName": "Avatar_Olorun_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Olorun_SpecailJump",
+      "abilityName": "Avatar_Olorun_SpecailJump",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Olorun_ElementalArt_Create_Press",
+      "abilityName": "Avatar_Olorun_ElementalArt_Create_Press",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Olorun_ElementalArt_Create_Gadget",
+      "abilityName": "Avatar_Olorun_ElementalArt_Create_Gadget",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Olorun_ElementalBurst",
+      "abilityName": "Avatar_Olorun_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Olorun_OtherLogic",
+      "abilityName": "Avatar_Olorun_OtherLogic",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Olorun_NyxSwitch",
+      "abilityName": "Avatar_Olorun_NyxSwitch",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Male_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Male_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

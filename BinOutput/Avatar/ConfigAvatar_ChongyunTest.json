@@ -1,0 +1,29 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_PlayerBoy_ExtraAttack_Common",
+      "abilityName": "Avatar_PlayerBoy_ExtraAttack_Common",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Player_Electric_ElementalBurst_Initiate",
+      "abilityName": "Avatar_Player_Electric_ElementalBurst_Initiate",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Player_Electric_ElementalArt_Click",
+      "abilityName": "Avatar_Player_Electric_ElementalArt_Click",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_ResetFreeStyle",
+      "abilityName": "Avatar_ResetFreeStyle",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Boy_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Boy_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

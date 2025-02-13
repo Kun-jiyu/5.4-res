@@ -1,0 +1,39 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Noel_ExtraAttack",
+      "abilityName": "Avatar_Noel_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Noel_Skill_S",
+      "abilityName": "Avatar_Noel_Skill_S",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Noel_Skill_E",
+      "abilityName": "Avatar_Noel_Skill_E",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Noel_Skill_E_ExitCamera",
+      "abilityName": "Avatar_Noel_Skill_E_ExitCamera",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Noel_FallingAnthem",
+      "abilityName": "Avatar_Noel_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_ResetFreeStyle",
+      "abilityName": "Avatar_ResetFreeStyle",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Girl_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Girl_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

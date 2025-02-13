@@ -1,0 +1,69 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Sucrose_Attack01",
+      "abilityName": "Avatar_Sucrose_Attack01",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Sucrose_Attack02",
+      "abilityName": "Avatar_Sucrose_Attack02",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Sucrose_Attack03",
+      "abilityName": "Avatar_Sucrose_Attack03",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Sucrose_Attack04_Pre",
+      "abilityName": "Avatar_Sucrose_Attack04_Pre",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Sucrose_Attack04",
+      "abilityName": "Avatar_Sucrose_Attack04",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Sucrose_ExtraAttack",
+      "abilityName": "Avatar_Sucrose_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Sucrose_WindBlackHole",
+      "abilityName": "Avatar_Sucrose_WindBlackHole",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Sucrose_DemiHurricane",
+      "abilityName": "Avatar_Sucrose_DemiHurricane",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Girl_Catalyst_HitFallToGround_Hide",
+      "abilityName": "Avatar_Girl_Catalyst_HitFallToGround_Hide",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Sucrose_FallingAnthem",
+      "abilityName": "Avatar_Sucrose_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Sucrose_NormalAttack_DamageHandler",
+      "abilityName": "Avatar_Sucrose_NormalAttack_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_ResetFreeStyle",
+      "abilityName": "Avatar_ResetFreeStyle",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Girl_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Girl_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

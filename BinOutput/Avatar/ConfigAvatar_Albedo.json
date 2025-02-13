@@ -1,0 +1,49 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Albedo_ExtraAttack",
+      "abilityName": "Avatar_Albedo_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Albedo_SkillHoldCharge",
+      "abilityName": "Avatar_Albedo_SkillHoldCharge",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Albedo_DamageHandler",
+      "abilityName": "Avatar_Albedo_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Albedo_FullRockAlchemist",
+      "abilityName": "Avatar_Albedo_FullRockAlchemist",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Albedo_FullRockAlchemist_Custom",
+      "abilityName": "Avatar_Albedo_FullRockAlchemist_Custom",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Albedo_AlchemicalBreakOut",
+      "abilityName": "Avatar_Albedo_AlchemicalBreakOut",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Albedo_FallingAnthem",
+      "abilityName": "Avatar_Albedo_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_ResetFreeStyle",
+      "abilityName": "Avatar_ResetFreeStyle",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Boy_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Boy_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

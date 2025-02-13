@@ -1,0 +1,49 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Kaeya_DamageHandler",
+      "abilityName": "Avatar_Kaeya_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Keaya_FrozenTrap_BS",
+      "abilityName": "Avatar_Keaya_FrozenTrap_BS",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Keaya_IceShield_Impact",
+      "abilityName": "Avatar_Keaya_IceShield_Impact",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Keaya_IceShield",
+      "abilityName": "Avatar_Keaya_IceShield",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kaeya_ExtraAttack",
+      "abilityName": "Avatar_Kaeya_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_KeayaAttack_Blink",
+      "abilityName": "Avatar_KeayaAttack_Blink",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Keaya_FrozenTrap_Clear",
+      "abilityName": "Avatar_Keaya_FrozenTrap_Clear",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kaeya_FallingAnthem",
+      "abilityName": "Avatar_Kaeya_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Male_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Male_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

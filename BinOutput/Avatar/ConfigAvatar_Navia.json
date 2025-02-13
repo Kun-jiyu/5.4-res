@@ -1,0 +1,59 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Navia_ExtraAttack",
+      "abilityName": "Avatar_Navia_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Navia_Attack_3_Create_Gadget",
+      "abilityName": "Avatar_Navia_Attack_3_Create_Gadget",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Navia_WeaponHide_Driver",
+      "abilityName": "Avatar_Navia_WeaponHide_Driver",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Navia_Crystal_Seed_Get_Controller",
+      "abilityName": "Avatar_Navia_Crystal_Seed_Get_Controller",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Navia_ElementalArt",
+      "abilityName": "Avatar_Navia_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Navia_ElementalArt_Pneuma",
+      "abilityName": "Avatar_Navia_ElementalArt_Pneuma",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Navia_ElementalBurst",
+      "abilityName": "Avatar_Navia_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Navia_NormalAttackDamage",
+      "abilityName": "Avatar_Navia_NormalAttackDamage",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Navia_FallingAnthem",
+      "abilityName": "Avatar_Navia_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Navia_Show_WindZone",
+      "abilityName": "Avatar_Navia_Show_WindZone",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lady_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Lady_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Liuyun_ExtraAttack",
+      "abilityName": "Avatar_Liuyun_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Liuyun_Attack01",
+      "abilityName": "Avatar_Liuyun_Attack01",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Liuyun_Attack02",
+      "abilityName": "Avatar_Liuyun_Attack02",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Liuyun_Attack03",
+      "abilityName": "Avatar_Liuyun_Attack03",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Liuyun_Attack04",
+      "abilityName": "Avatar_Liuyun_Attack04",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Liuyun_ElementalArt",
+      "abilityName": "Avatar_Liuyun_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Liuyun_ElementalArt_CameraControl",
+      "abilityName": "Avatar_Liuyun_ElementalArt_CameraControl",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Liuyun_ElementalArt_ExtraFallingAttack",
+      "abilityName": "Avatar_Liuyun_ElementalArt_ExtraFallingAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Liuyun_ElementBurst",
+      "abilityName": "Avatar_Liuyun_ElementBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Liuyun_ElementBurst_HealHandler",
+      "abilityName": "Avatar_Liuyun_ElementBurst_HealHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Liuyun_FallingAnthem",
+      "abilityName": "Avatar_Liuyun_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lady_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Lady_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

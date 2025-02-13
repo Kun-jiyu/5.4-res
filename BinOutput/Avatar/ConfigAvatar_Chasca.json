@@ -1,0 +1,114 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Chasca_ExtraAttack",
+      "abilityName": "Avatar_Chasca_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chasca_AimPressShoot",
+      "abilityName": "Avatar_Chasca_AimPressShoot",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chasca_Arrow_FX",
+      "abilityName": "Avatar_Chasca_Arrow_FX",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chasca_ShootAimingArrow_Charge",
+      "abilityName": "Avatar_Chasca_ShootAimingArrow_Charge",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chasca_ShootArrow_01",
+      "abilityName": "Avatar_Chasca_ShootArrow_01",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chasca_ShootArrow_02",
+      "abilityName": "Avatar_Chasca_ShootArrow_02",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chasca_ShootArrow_03_01",
+      "abilityName": "Avatar_Chasca_ShootArrow_03_01",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chasca_ShootArrow_03_02",
+      "abilityName": "Avatar_Chasca_ShootArrow_03_02",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chasca_ShootArrow_04",
+      "abilityName": "Avatar_Chasca_ShootArrow_04",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chasca_ShootArrow_Aiming",
+      "abilityName": "Avatar_Chasca_ShootArrow_Aiming",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chasca_MultiAimAttack",
+      "abilityName": "Avatar_Chasca_MultiAimAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chasca_MultiAimAttack_Shoot",
+      "abilityName": "Avatar_Chasca_MultiAimAttack_Shoot",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chasca_NyxSwitch",
+      "abilityName": "Avatar_Chasca_NyxSwitch",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chasca_ElementalArt_HoverAir",
+      "abilityName": "Avatar_Chasca_ElementalArt_HoverAir",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chasca_EnterHoverAir",
+      "abilityName": "Avatar_Chasca_EnterHoverAir",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chasca_ExitHoverAir",
+      "abilityName": "Avatar_Chasca_ExitHoverAir",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chasca_ExitFallingAttack",
+      "abilityName": "Avatar_Chasca_ExitFallingAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chasca_ElementalArt_InHoverAir",
+      "abilityName": "Avatar_Chasca_ElementalArt_InHoverAir",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chasca_ElementalArt_Recovery",
+      "abilityName": "Avatar_Chasca_ElementalArt_Recovery",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chasca_ElementalBurst",
+      "abilityName": "Avatar_Chasca_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chasca_FallingAnthem",
+      "abilityName": "Avatar_Chasca_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lady_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Lady_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

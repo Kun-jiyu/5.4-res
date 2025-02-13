@@ -1,0 +1,69 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Pole_ExtraAttack",
+      "abilityName": "Avatar_Pole_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Arlecchino_ExtraAttack",
+      "abilityName": "Avatar_Arlecchino_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Arlecchino_NormalAttack_Wing",
+      "abilityName": "Avatar_Arlecchino_NormalAttack_Wing",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Arlecchino_ElementalArt",
+      "abilityName": "Avatar_Arlecchino_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Arlecchino_DropBall",
+      "abilityName": "Avatar_Arlecchino_DropBall",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Arlecchino_ElementalBurst",
+      "abilityName": "Avatar_Arlecchino_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Arlecchino_ElementalBurst_Attack",
+      "abilityName": "Avatar_Arlecchino_ElementalBurst_Attack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Arlecchino_HPDebtsMark",
+      "abilityName": "Avatar_Arlecchino_HPDebtsMark",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Arlecchino_HealToHpDebts",
+      "abilityName": "Avatar_Arlecchino_HealToHpDebts",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Arlecchino_DamageHandler",
+      "abilityName": "Avatar_Arlecchino_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Arlecchino_FallingAnthem",
+      "abilityName": "Avatar_Arlecchino_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Arlecchino_Show_01",
+      "abilityName": "Avatar_Arlecchino_Show_01",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lady_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Lady_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

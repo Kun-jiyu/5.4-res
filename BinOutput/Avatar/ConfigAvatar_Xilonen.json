@@ -1,0 +1,94 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Xilonen_ExtraAttack",
+      "abilityName": "Avatar_Xilonen_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xilonen_Gem_Handler",
+      "abilityName": "Avatar_Xilonen_Gem_Handler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xilonen_ElementalArt_Launch",
+      "abilityName": "Avatar_Xilonen_ElementalArt_Launch",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xilonen_ElementalArt_SpecialMove",
+      "abilityName": "Avatar_Xilonen_ElementalArt_SpecialMove",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xilonen_ElementalArt_Exit",
+      "abilityName": "Avatar_Xilonen_ElementalArt_Exit",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xilonen_ElementalArt_ExitButton",
+      "abilityName": "Avatar_Xilonen_ElementalArt_ExitButton",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xilonen_NyxState_TimeLimit",
+      "abilityName": "Avatar_Xilonen_NyxState_TimeLimit",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xilonen_NyxState_Attack",
+      "abilityName": "Avatar_Xilonen_NyxState_Attack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xilonen_NyxState_Effect",
+      "abilityName": "Avatar_Xilonen_NyxState_Effect",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xilonen_ElementalBurst",
+      "abilityName": "Avatar_Xilonen_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xilonen_Show",
+      "abilityName": "Avatar_Xilonen_Show",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xilonen_OtherLogic",
+      "abilityName": "Avatar_Xilonen_OtherLogic",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xilonen_NyxSwitch",
+      "abilityName": "Avatar_Xilonen_NyxSwitch",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xilonen_NyxSwitch_ExitButton",
+      "abilityName": "Avatar_Xilonen_NyxSwitch_ExitButton",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xilonen_FallingAnthem",
+      "abilityName": "Avatar_Xilonen_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xilonen_Level_Interaction",
+      "abilityName": "Avatar_Xilonen_Level_Interaction",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lady_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Lady_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_ResetFreeStyle",
+      "abilityName": "Avatar_ResetFreeStyle",
+      "abilityOverride": ""
+    }
+  ]
+}

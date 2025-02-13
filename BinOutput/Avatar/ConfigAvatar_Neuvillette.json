@@ -1,0 +1,59 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Neuvillette_ExtraAttack",
+      "abilityName": "Avatar_Neuvillette_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Neuvillette_FallingAnthem",
+      "abilityName": "Avatar_Neuvillette_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Neuvillette_Attack01",
+      "abilityName": "Avatar_Neuvillette_Attack01",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Neuvillette_Attack02",
+      "abilityName": "Avatar_Neuvillette_Attack02",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Neuvillette_Attack03",
+      "abilityName": "Avatar_Neuvillette_Attack03",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Neuvillette_ElementalArt",
+      "abilityName": "Avatar_Neuvillette_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Neuvillette_Core_Handler",
+      "abilityName": "Avatar_Neuvillette_Core_Handler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Neuvillette_ElementalBurst",
+      "abilityName": "Avatar_Neuvillette_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Neuvillette_Stick_Handler",
+      "abilityName": "Avatar_Neuvillette_Stick_Handler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Neuvillette_Show",
+      "abilityName": "Avatar_Neuvillette_Show",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Male_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Male_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

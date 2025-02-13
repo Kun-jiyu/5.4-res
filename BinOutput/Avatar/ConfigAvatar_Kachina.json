@@ -1,0 +1,69 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Kachina_ExtraAttack",
+      "abilityName": "Avatar_Kachina_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kachina_NormalAttack_DamageHandler",
+      "abilityName": "Avatar_Kachina_NormalAttack_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kachina_FallingAnthem",
+      "abilityName": "Avatar_Kachina_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kachina_ElementalArt",
+      "abilityName": "Avatar_Kachina_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kachina_NyxCycle",
+      "abilityName": "Avatar_Kachina_NyxCycle",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kachina_SpecialJump",
+      "abilityName": "Avatar_Kachina_SpecialJump",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kachina_Level_Interaction",
+      "abilityName": "Avatar_Kachina_Level_Interaction",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kachina_Top_ShowHandler",
+      "abilityName": "Avatar_Kachina_Top_ShowHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kachina_ElementalBurst",
+      "abilityName": "Avatar_Kachina_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kachina_NyxSwitch",
+      "abilityName": "Avatar_Kachina_NyxSwitch",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kachina_PermanentSkill_4_Collect",
+      "abilityName": "Avatar_Kachina_PermanentSkill_4_Collect",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_ResetFreeStyle",
+      "abilityName": "Avatar_ResetFreeStyle",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Loli_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Loli_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

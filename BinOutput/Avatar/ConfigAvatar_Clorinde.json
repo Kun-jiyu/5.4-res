@@ -1,0 +1,64 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Clorinde_ExtraAttack",
+      "abilityName": "Avatar_Clorinde_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Clorinde_ElementalArt_Activate",
+      "abilityName": "Avatar_Clorinde_ElementalArt_Activate",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Clorinde_ElementalArt_GunShot",
+      "abilityName": "Avatar_Clorinde_ElementalArt_GunShot",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Clorinde_ElementalArt_Dodge_Input",
+      "abilityName": "Avatar_Clorinde_ElementalArt_Dodge_Input",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Clorinde_ElementalArt_Dodge",
+      "abilityName": "Avatar_Clorinde_ElementalArt_Dodge",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Clorinde_ElementalBurst_Camera",
+      "abilityName": "Avatar_Clorinde_ElementalBurst_Camera",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Clorinde_ElementalBurst_Activate",
+      "abilityName": "Avatar_Clorinde_ElementalBurst_Activate",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Clorinde_FallingAnthem",
+      "abilityName": "Avatar_Clorinde_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Clorinde_Damage_Handler",
+      "abilityName": "Avatar_Clorinde_Damage_Handler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Clorinde_Talent_PassiveSkill",
+      "abilityName": "Avatar_Clorinde_Talent_PassiveSkill",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Clorinde_Constellation_PassiveSkill",
+      "abilityName": "Avatar_Clorinde_Constellation_PassiveSkill",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lady_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Lady_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

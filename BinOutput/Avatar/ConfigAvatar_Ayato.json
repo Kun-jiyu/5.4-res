@@ -1,0 +1,54 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Ayato_ExtraAttack",
+      "abilityName": "Avatar_Ayato_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ayato_ExtraAttack_CreateBullet",
+      "abilityName": "Avatar_Ayato_ExtraAttack_CreateBullet",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ayato_ElementalArt",
+      "abilityName": "Avatar_Ayato_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ayato_KendoPose",
+      "abilityName": "Avatar_Ayato_KendoPose",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ayato_KendoPose_Buff",
+      "abilityName": "Avatar_Ayato_KendoPose_Buff",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ayato_KendoPose_Click",
+      "abilityName": "Avatar_Ayato_KendoPose_Click",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ayato_ElementalBurst",
+      "abilityName": "Avatar_Ayato_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ayato_NormalAttack_DamageHandler",
+      "abilityName": "Avatar_Ayato_NormalAttack_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ayato_FallingAnthem",
+      "abilityName": "Avatar_Ayato_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Male_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Male_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

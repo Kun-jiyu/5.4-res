@@ -1,0 +1,19 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Kate_ThrowingBomb",
+      "abilityName": "Avatar_Kate_ThrowingBomb",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_ResetFreeStyle",
+      "abilityName": "Avatar_ResetFreeStyle",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Girl_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Girl_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Emilie_ExtraAttack",
+      "abilityName": "Avatar_Emilie_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Emilie_DropBall",
+      "abilityName": "Avatar_Emilie_DropBall",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Emilie_ArkheGrade",
+      "abilityName": "Avatar_Emilie_ArkheGrade",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Emilie_ElementalArt",
+      "abilityName": "Avatar_Emilie_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Emilie_ElementalBurst",
+      "abilityName": "Avatar_Emilie_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Emilie_HideWeapon",
+      "abilityName": "Avatar_Emilie_HideWeapon",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Emilie_EmotionControl",
+      "abilityName": "Avatar_Emilie_EmotionControl",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Emilie_NormalAttack_DamageHandler",
+      "abilityName": "Avatar_Emilie_NormalAttack_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Emilie_FallingAnthem",
+      "abilityName": "Avatar_Emilie_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_ResetFreeStyle",
+      "abilityName": "Avatar_ResetFreeStyle",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Girl_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Girl_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

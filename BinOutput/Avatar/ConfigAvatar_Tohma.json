@@ -1,0 +1,54 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Tohma_ExtraAttack",
+      "abilityName": "Avatar_Tohma_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Tohma_ExtraAttack_CreateBullet",
+      "abilityName": "Avatar_Tohma_ExtraAttack_CreateBullet",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Tohma_ElementalArt_Strike",
+      "abilityName": "Avatar_Tohma_ElementalArt_Strike",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Tohma_ElementalArt_Handler",
+      "abilityName": "Avatar_Tohma_ElementalArt_Handler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Tohma_ElementalBurst_Start",
+      "abilityName": "Avatar_Tohma_ElementalBurst_Start",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Tohma_ElementalBurst_TriggerAttack",
+      "abilityName": "Avatar_Tohma_ElementalBurst_TriggerAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Tohma_ElementalBurst_Buff_Handler",
+      "abilityName": "Avatar_Tohma_ElementalBurst_Buff_Handler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Tohma_NormalAttack_DamageHandler",
+      "abilityName": "Avatar_Tohma_NormalAttack_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Tohma_FallingAnthem",
+      "abilityName": "Avatar_Tohma_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Male_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Male_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

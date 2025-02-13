@@ -1,0 +1,79 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Qiqi_NormalAttackDamage",
+      "abilityName": "Avatar_Qiqi_NormalAttackDamage",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Qiqi_ElementalArt_Damage",
+      "abilityName": "Avatar_Qiqi_ElementalArt_Damage",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Qiqi_ExtraAttack",
+      "abilityName": "Avatar_Qiqi_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Qiqi_ElementalArt_Clear",
+      "abilityName": "Avatar_Qiqi_ElementalArt_Clear",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Qiqi_ElementalArt",
+      "abilityName": "Avatar_Qiqi_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Qiqi_ElementalBurst",
+      "abilityName": "Avatar_Qiqi_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Qiqi_ElementalBurst_PostEffect",
+      "abilityName": "Avatar_Qiqi_ElementalBurst_PostEffect",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Qiqi_ElementalBurst_ApplyModifier",
+      "abilityName": "Avatar_Qiqi_ElementalBurst_ApplyModifier",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Qiqi_ElementalBurst_TriggerAttack",
+      "abilityName": "Avatar_Qiqi_ElementalBurst_TriggerAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Qiqi_ElementalBurst_CameraRadialBlur",
+      "abilityName": "Avatar_Qiqi_ElementalBurst_CameraRadialBlur",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Qiqi_Revive",
+      "abilityName": "Avatar_Qiqi_Revive",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Qiqi_FallingAnthem",
+      "abilityName": "Avatar_Qiqi_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Qiqi_Show_WindZone",
+      "abilityName": "Avatar_Qiqi_Show_WindZone",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_ResetFreeStyle",
+      "abilityName": "Avatar_ResetFreeStyle",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Loli_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Loli_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

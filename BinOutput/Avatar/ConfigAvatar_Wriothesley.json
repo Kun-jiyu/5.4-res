@@ -1,0 +1,44 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Wriothesley_ExtraAttack",
+      "abilityName": "Avatar_Wriothesley_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Wriothesley_ExtraAttack_Strike",
+      "abilityName": "Avatar_Wriothesley_ExtraAttack_Strike",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Wriothesley_ElementalArt_Buff",
+      "abilityName": "Avatar_Wriothesley_ElementalArt_Buff",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Wriothesley_ElementalBurst_Cast",
+      "abilityName": "Avatar_Wriothesley_ElementalBurst_Cast",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Wriothesley_FallingAnthem",
+      "abilityName": "Avatar_Wriothesley_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Wriothesley_Gauntlet_Handler",
+      "abilityName": "Avatar_Wriothesley_Gauntlet_Handler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Wriothesley_NormalAttack_Damage_Handler",
+      "abilityName": "Avatar_Wriothesley_NormalAttack_Damage_Handler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Male_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Male_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Furina_ExtraAttack",
+      "abilityName": "Avatar_Furina_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Furina_ArkheGrade_Handler",
+      "abilityName": "Avatar_Furina_ArkheGrade_Handler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Furina_DamageHandler",
+      "abilityName": "Avatar_Furina_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Furina_ElementalArt",
+      "abilityName": "Avatar_Furina_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Furina_ElementalArt_Goddess_Heal",
+      "abilityName": "Avatar_Furina_ElementalArt_Goddess_Heal",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Furina_ElementalBurst",
+      "abilityName": "Avatar_Furina_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Furina_FallingAnthem",
+      "abilityName": "Avatar_Furina_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Furina_MoveOnWater_FootRipple_Left",
+      "abilityName": "Avatar_Furina_MoveOnWater_FootRipple_Left",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Furina_MoveOnWater_FootRipple_Right",
+      "abilityName": "Avatar_Furina_MoveOnWater_FootRipple_Right",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_ResetFreeStyle",
+      "abilityName": "Avatar_ResetFreeStyle",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Girl_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Girl_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

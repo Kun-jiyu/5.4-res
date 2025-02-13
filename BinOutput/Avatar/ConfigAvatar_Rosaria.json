@@ -1,0 +1,59 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Rosaria_ExtraAttack",
+      "abilityName": "Avatar_Rosaria_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Rosaria_ExtraAttack_CreateBullet",
+      "abilityName": "Avatar_Rosaria_ExtraAttack_CreateBullet",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Rosaria_ElementalArt",
+      "abilityName": "Avatar_Rosaria_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Rosaria_ElementalArt_Strike_01",
+      "abilityName": "Avatar_Rosaria_ElementalArt_Strike_01",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Rosaria_ElementalArt_Strike_02",
+      "abilityName": "Avatar_Rosaria_ElementalArt_Strike_02",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Rosaria_ElementalBurst_Camera",
+      "abilityName": "Avatar_Rosaria_ElementalBurst_Camera",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Rosaria_ElementalBurst_Strike_01",
+      "abilityName": "Avatar_Rosaria_ElementalBurst_Strike_01",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Rosaria_ElementalBurst_Create_Gadget",
+      "abilityName": "Avatar_Rosaria_ElementalBurst_Create_Gadget",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Rosaria_NormalAttack_DamageHandler",
+      "abilityName": "Avatar_Rosaria_NormalAttack_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Rosaria_FallingAnthem",
+      "abilityName": "Avatar_Rosaria_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lady_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Lady_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

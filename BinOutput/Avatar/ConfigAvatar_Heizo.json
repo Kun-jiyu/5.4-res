@@ -1,0 +1,54 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Heizo_ExtraAttack",
+      "abilityName": "Avatar_Heizo_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Heizo_NormalAttack_Handler",
+      "abilityName": "Avatar_Heizo_NormalAttack_Handler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Heizo_ElementalArt_Handler",
+      "abilityName": "Avatar_Heizo_ElementalArt_Handler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Heizo_ElementalArt_Reset",
+      "abilityName": "Avatar_Heizo_ElementalArt_Reset",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Heizo_ElementalArt_Strike",
+      "abilityName": "Avatar_Heizo_ElementalArt_Strike",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Heizo_ElementalBurst_Strike",
+      "abilityName": "Avatar_Heizo_ElementalBurst_Strike",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Heizo_ElementalArt_Strike_Max",
+      "abilityName": "Avatar_Heizo_ElementalArt_Strike_Max",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Heizo_FallingAnthem",
+      "abilityName": "Avatar_Heizo_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_ResetFreeStyle",
+      "abilityName": "Avatar_ResetFreeStyle",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Boy_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Boy_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

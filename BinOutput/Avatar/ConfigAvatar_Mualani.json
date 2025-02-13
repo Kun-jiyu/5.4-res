@@ -1,0 +1,109 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Mualani_ExtraAttack_Launch",
+      "abilityName": "Avatar_Mualani_ExtraAttack_Launch",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mualani_Attack01",
+      "abilityName": "Avatar_Mualani_Attack01",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mualani_Attack02",
+      "abilityName": "Avatar_Mualani_Attack02",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mualani_Attack03",
+      "abilityName": "Avatar_Mualani_Attack03",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mualani_ExtraAttack",
+      "abilityName": "Avatar_Mualani_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mualani_Gadgets_Misc_Handler",
+      "abilityName": "Avatar_Mualani_Gadgets_Misc_Handler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mualani_NyxSwitch",
+      "abilityName": "Avatar_Mualani_NyxSwitch",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mualani_ElementalArt_Launch",
+      "abilityName": "Avatar_Mualani_ElementalArt_Launch",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mualani_ElementalArt_Combat",
+      "abilityName": "Avatar_Mualani_ElementalArt_Combat",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mualani_ElementalArt_Surfing",
+      "abilityName": "Avatar_Mualani_ElementalArt_Surfing",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mualani_ElementalArt_Surfing_Dash",
+      "abilityName": "Avatar_Mualani_ElementalArt_Surfing_Dash",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mualani_ElementalArt_Exit",
+      "abilityName": "Avatar_Mualani_ElementalArt_Exit",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mualani_ElementalArt_ArcLight",
+      "abilityName": "Avatar_Mualani_ElementalArt_ArcLight",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mualani_ElementalBurst",
+      "abilityName": "Avatar_Mualani_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mualani_FallingAnthem",
+      "abilityName": "Avatar_Mualani_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mualani_Surfing_Attack_SelectTarget",
+      "abilityName": "Avatar_Mualani_Surfing_Attack_SelectTarget",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mualani_Surfing_AddSurfingCount",
+      "abilityName": "Avatar_Mualani_Surfing_AddSurfingCount",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mualani_Surfing_DropFugu",
+      "abilityName": "Avatar_Mualani_Surfing_DropFugu",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Mualani_PermanentSkill_4_Collect",
+      "abilityName": "Avatar_Mualani_PermanentSkill_4_Collect",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_ResetFreeStyle",
+      "abilityName": "Avatar_ResetFreeStyle",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Girl_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Girl_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

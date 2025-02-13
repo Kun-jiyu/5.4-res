@@ -1,0 +1,49 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Xiao_NormalAttack_DamageHandler",
+      "abilityName": "Avatar_Xiao_NormalAttack_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xiao_HowlingSoul_CameraController",
+      "abilityName": "Avatar_Xiao_HowlingSoul_CameraController",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xiao_CloseCollider",
+      "abilityName": "Avatar_Xiao_CloseCollider",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xiao_HowlingSoul",
+      "abilityName": "Avatar_Xiao_HowlingSoul",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xiao_ExtraAttack",
+      "abilityName": "Avatar_Xiao_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xiao_DevilDash_Handler",
+      "abilityName": "Avatar_Xiao_DevilDash_Handler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Xiao_FallingAnthem",
+      "abilityName": "Avatar_Xiao_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_ResetFreeStyle",
+      "abilityName": "Avatar_ResetFreeStyle",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Boy_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Boy_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

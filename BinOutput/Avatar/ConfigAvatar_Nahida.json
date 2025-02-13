@@ -1,0 +1,74 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Nahida_ExtraAttack",
+      "abilityName": "Avatar_Nahida_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Nahida_ExtraAttack_Damage",
+      "abilityName": "Avatar_Nahida_ExtraAttack_Damage",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Nahida_Attack01",
+      "abilityName": "Avatar_Nahida_Attack01",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Nahida_Attack02",
+      "abilityName": "Avatar_Nahida_Attack02",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Nahida_Attack03",
+      "abilityName": "Avatar_Nahida_Attack03",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Nahida_Attack04",
+      "abilityName": "Avatar_Nahida_Attack04",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Nahida_FallingAnthem",
+      "abilityName": "Avatar_Nahida_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Nahida_ElementalArt",
+      "abilityName": "Avatar_Nahida_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Nahida_ElementalArt_Click",
+      "abilityName": "Avatar_Nahida_ElementalArt_Click",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Nahida_ElementalArt_RayCast",
+      "abilityName": "Avatar_Nahida_ElementalArt_RayCast",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Nahida_ElementalBurst",
+      "abilityName": "Avatar_Nahida_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Nahida_Show_01",
+      "abilityName": "Avatar_Nahida_Show_01",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_ResetFreeStyle",
+      "abilityName": "Avatar_ResetFreeStyle",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Loli_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Loli_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

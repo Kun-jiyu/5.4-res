@@ -1,0 +1,74 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Chiori_ExtraAttack",
+      "abilityName": "Avatar_Chiori_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chiori_ElementalArt_PutTurret",
+      "abilityName": "Avatar_Chiori_ElementalArt_PutTurret",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chiori_ElementalArt_Blink_HoldCharge",
+      "abilityName": "Avatar_Chiori_ElementalArt_Blink_HoldCharge",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chiori_ElementalArt_Blink_OnStart",
+      "abilityName": "Avatar_Chiori_ElementalArt_Blink_OnStart",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chiori_ElementalArt_Blink",
+      "abilityName": "Avatar_Chiori_ElementalArt_Blink",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chiori_ElementalArt_Blink_SelectPos",
+      "abilityName": "Avatar_Chiori_ElementalArt_Blink_SelectPos",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chiori_ElementalArt_JumpSwitch",
+      "abilityName": "Avatar_Chiori_ElementalArt_JumpSwitch",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chiori_ElementalBurst",
+      "abilityName": "Avatar_Chiori_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chiori_FallingAnthem",
+      "abilityName": "Avatar_Chiori_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chiori_NormalAttack_DamageHandler",
+      "abilityName": "Avatar_Chiori_NormalAttack_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chiori_PermanentSkill_3",
+      "abilityName": "Avatar_Chiori_PermanentSkill_3",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chiori_Turret_Onkill_Handler",
+      "abilityName": "Avatar_Chiori_Turret_Onkill_Handler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_ResetFreeStyle",
+      "abilityName": "Avatar_ResetFreeStyle",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Girl_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Girl_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

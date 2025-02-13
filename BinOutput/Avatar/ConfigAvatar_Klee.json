@@ -1,0 +1,74 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Klee_Attack01",
+      "abilityName": "Avatar_Klee_Attack01",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Klee_Attack02",
+      "abilityName": "Avatar_Klee_Attack02",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Klee_Attack03",
+      "abilityName": "Avatar_Klee_Attack03",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Klee_ExtraAttack",
+      "abilityName": "Avatar_Klee_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Klee_ExtraAttack_CreateClover",
+      "abilityName": "Avatar_Klee_ExtraAttack_CreateClover",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Klee_NormalAttack",
+      "abilityName": "Avatar_Klee_NormalAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Klee_JumpingBomb",
+      "abilityName": "Avatar_Klee_JumpingBomb",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Klee_ElementalArt_ClearTrigger",
+      "abilityName": "Avatar_Klee_ElementalArt_ClearTrigger",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Klee_Clover_Clear",
+      "abilityName": "Avatar_Klee_Clover_Clear",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Klee_Elemental_Burst",
+      "abilityName": "Avatar_Klee_Elemental_Burst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Klee_CameraRadialBlur",
+      "abilityName": "Avatar_Klee_CameraRadialBlur",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Klee_FallingAnthem",
+      "abilityName": "Avatar_Klee_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_ResetFreeStyle",
+      "abilityName": "Avatar_ResetFreeStyle",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Loli_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Loli_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

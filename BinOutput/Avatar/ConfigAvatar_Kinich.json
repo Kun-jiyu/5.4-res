@@ -1,0 +1,114 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Kinich_ExtraAttack",
+      "abilityName": "Avatar_Kinich_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kinich_ElementalArt",
+      "abilityName": "Avatar_Kinich_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kinich_ElementalArt_Start",
+      "abilityName": "Avatar_Kinich_ElementalArt_Start",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kinich_ElementalArt_Combat",
+      "abilityName": "Avatar_Kinich_ElementalArt_Combat",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kinich_ElementalArt_Combat_Over",
+      "abilityName": "Avatar_Kinich_ElementalArt_Combat_Over",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kinich_ElementalArt_HookMove",
+      "abilityName": "Avatar_Kinich_ElementalArt_HookMove",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kinich_ElementalArt_HookMoveAir",
+      "abilityName": "Avatar_Kinich_ElementalArt_HookMoveAir",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kinich_ElementalArt_Skill_Controller",
+      "abilityName": "Avatar_Kinich_ElementalArt_Skill_Controller",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kinich_ElementalArt_HookGrab",
+      "abilityName": "Avatar_Kinich_ElementalArt_HookGrab",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kinich_ElementalArt_HookFree",
+      "abilityName": "Avatar_Kinich_ElementalArt_HookFree",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kinich_ElementalArt_HookGrabShoot",
+      "abilityName": "Avatar_Kinich_ElementalArt_HookGrabShoot",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kinich_HookMove_Attack",
+      "abilityName": "Avatar_Kinich_HookMove_Attack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kinich_ElementalBurst",
+      "abilityName": "Avatar_Kinich_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kinich_FallingAnthem",
+      "abilityName": "Avatar_Kinich_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kinich_Platform_ExtraAbility",
+      "abilityName": "Avatar_Kinich_Platform_ExtraAbility",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kinich_NyxSwitch",
+      "abilityName": "Avatar_Kinich_NyxSwitch",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kinich_Emotion_Controller",
+      "abilityName": "Avatar_Kinich_Emotion_Controller",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kinich_Elemball",
+      "abilityName": "Avatar_Kinich_Elemball",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kinich_NormalAttackDamage",
+      "abilityName": "Avatar_Kinich_NormalAttackDamage",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Kinich_PermanentSkill_4_Collect",
+      "abilityName": "Avatar_Kinich_PermanentSkill_4_Collect",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_ResetFreeStyle",
+      "abilityName": "Avatar_ResetFreeStyle",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Boy_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Boy_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

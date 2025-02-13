@@ -1,0 +1,69 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Chevreuse_ExtraAttack",
+      "abilityName": "Avatar_Chevreuse_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chevreuse_ExtraAttack_Cast",
+      "abilityName": "Avatar_Chevreuse_ExtraAttack_Cast",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chevreuse_ElementalArt",
+      "abilityName": "Avatar_Chevreuse_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chevreuse_ElementalArt_Click",
+      "abilityName": "Avatar_Chevreuse_ElementalArt_Click",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chevreuse_ElementalArt_Shoot",
+      "abilityName": "Avatar_Chevreuse_ElementalArt_Shoot",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chevreuse_ArkheGrade",
+      "abilityName": "Avatar_Chevreuse_ArkheGrade",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chevreuse_ElementalArt_UpgradeBullet",
+      "abilityName": "Avatar_Chevreuse_ElementalArt_UpgradeBullet",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chevreuse_ElementalBurst",
+      "abilityName": "Avatar_Chevreuse_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chevreuse_DropBall",
+      "abilityName": "Avatar_Chevreuse_DropBall",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chevreuse_FallingAnthem",
+      "abilityName": "Avatar_Chevreuse_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Chevreuse_NormalAttack_DamageHandler",
+      "abilityName": "Avatar_Chevreuse_NormalAttack_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_ResetFreeStyle",
+      "abilityName": "Avatar_ResetFreeStyle",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Girl_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Girl_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}

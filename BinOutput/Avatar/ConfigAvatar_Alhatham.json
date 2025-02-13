@@ -1,0 +1,59 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Alhatham_ExtraAttack",
+      "abilityName": "Avatar_Alhatham_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Alhatham_SkillHoldCharge",
+      "abilityName": "Avatar_Alhatham_SkillHoldCharge",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Alhatham_ForlornLotus",
+      "abilityName": "Avatar_Alhatham_ForlornLotus",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Alhatham_ElementalArt",
+      "abilityName": "Avatar_Alhatham_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Alhatham_ElementalArt_Custom",
+      "abilityName": "Avatar_Alhatham_ElementalArt_Custom",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Alhatham_ElementalArt_SkillStart",
+      "abilityName": "Avatar_Alhatham_ElementalArt_SkillStart",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Alhatham_ElementalBurst",
+      "abilityName": "Avatar_Alhatham_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Alhatham_ElementalBurst_Aftermath",
+      "abilityName": "Avatar_Alhatham_ElementalBurst_Aftermath",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Alhatham_DamageHandler",
+      "abilityName": "Avatar_Alhatham_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Alhatham_FallingAnthem",
+      "abilityName": "Avatar_Alhatham_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Male_SwimDash_Hand_Effect",
+      "abilityName": "Avatar_Male_SwimDash_Hand_Effect",
+      "abilityOverride": ""
+    }
+  ]
+}
