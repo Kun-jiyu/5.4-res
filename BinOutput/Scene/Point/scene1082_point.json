@@ -2,7 +2,7 @@
    
   "points": {
     "1": {
-      "$type": "DNBJJDHNDDK",
+      "$type": "PersonalSceneJumpPoint",
       "gadgetId": 70010002,
       "pos": {
         "x": 2.8299999237060547,

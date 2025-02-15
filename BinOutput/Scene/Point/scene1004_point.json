@@ -2,7 +2,7 @@
    
   "points": {
     "1": {
-      "$type": "DNBJJDHNDDK",
+      "$type": "PersonalSceneJumpPoint",
       "gadgetId": 70010002,
       "pos": {
         "y": 0.20828869938850403,
@@ -28,7 +28,7 @@
       "closeTime": 24.0
     },
     "2": {
-      "$type": "BDFKPODONOG",
+      "$type": "DungeonEntry",
       "gadgetId": 70350510,
       "pos": {
         "x": -12.055299758911133,
@@ -62,7 +62,7 @@
       "dungeonEntryType": "RoleCombat"
     },
     "3": {
-      "$type": "IJGKGPNPMFO",
+      "$type": "DungeonExit",
       "gadgetId": 70010002,
       "pos": {
         "x": -15.419210433959961,

@@ -1,7 +1,7 @@
 {
   "points": {
     "2": {
-      "$type": "PGCBEOFPFKA",
+      "$type": "DungeonEntry",
       "gadgetId": 70950059,
       "areaId": 6,
       "pos": {
@@ -35,7 +35,7 @@
       "fireFieldEvent": true
     },
     "3": {
-      "$type": "OGDBDKJJEBD",
+      "$type": "SceneVehicleSummonPoint",
       "gadgetId": 70370273,
       "pos": {
         "x": 1685.1590576171875,
@@ -132,7 +132,7 @@
   },
   "entities": {
     "1": {
-      "$type": "KCCEGKLCEFA",
+      "$type": "ConfigLocalTrigger",
       "gadgetId": 70010006,
       "pos": {
         "x": 1589.5369873046875,
@@ -148,7 +148,7 @@
       "tag": 10001,
       "triggerFlag": "LevelCamera",
       "shape": {
-        "$type": "EGMMFKMBFLE",
+        "$type": "ConfigShapeCircle",
         "useHeight": true,
         "height": 50.0,
         "radius": 50.0

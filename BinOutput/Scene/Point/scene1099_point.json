@@ -2,7 +2,7 @@
    
   "points": {
     "1": {
-      "$type": "DNBJJDHNDDK",
+      "$type": "PersonalSceneJumpPoint",
       "gadgetId": 70010002,
       "pos": {
         "x": 42.79759979248047,
@@ -32,7 +32,7 @@
       "closeTime": 24.0
     },
     "2": {
-      "$type": "BDFKPODONOG",
+      "$type": "DungeonEntry",
       "gadgetId": 70010002,
       "pos": {
         "x": 41.84280014038086,

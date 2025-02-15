@@ -37,7 +37,7 @@
       }
     },
     "11": {
-      "$type": "BDFKPODONOG",
+      "$type": "DungeonEntry",
       "gadgetId": 70010006,
       "pos": {
         "x": 267.793212890625,

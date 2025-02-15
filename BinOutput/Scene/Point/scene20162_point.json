@@ -2,7 +2,7 @@
    
   "points": {
     "1": {
-      "$type": "BDFKPODONOG",
+      "$type": "DungeonEntry",
       "gadgetId": 70010006,
       "pos": {
         "x": 102.07060241699219,

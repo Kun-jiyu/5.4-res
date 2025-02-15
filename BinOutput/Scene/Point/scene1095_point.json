@@ -2,7 +2,7 @@
    
   "points": {
     "1": {
-      "$type": "DNBJJDHNDDK",
+      "$type": "PersonalSceneJumpPoint",
       "gadgetId": 70010002,
       "pos": {
         "x": -26.903249740600586,
@@ -32,7 +32,7 @@
       "closeTime": 24.0
     },
     "2": {
-      "$type": "BDFKPODONOG",
+      "$type": "DungeonEntry",
       "pos": {
         "x": 40.5955810546875,
         "y": 1.7514419555664062,
@@ -64,7 +64,7 @@
       ]
     },
     "3": {
-      "$type": "IJGKGPNPMFO",
+      "$type": "DungeonExit",
       "pos": {
         "x": 40.68996810913086,
         "y": 1.7490240335464478,
@@ -83,7 +83,7 @@
       "entryPointId": 2
     },
     "4": {
-      "$type": "BDFKPODONOG",
+      "$type": "DungeonEntry",
       "gadgetId": 70010006,
       "pos": {
         "x": -26.607919692993164,

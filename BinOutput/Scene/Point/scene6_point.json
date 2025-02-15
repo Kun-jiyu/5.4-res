@@ -2,7 +2,7 @@
    
   "points": {
     "1": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 300,
       "ANMJLICEGLD": 30001,
@@ -26,7 +26,7 @@
       "portalShape": ""
     },
     "10": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 300,
       "pos": {
@@ -49,7 +49,7 @@
       "portalShape": ""
     },
     "11": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 300,
       "ANMJLICEGLD": 30005,
@@ -73,7 +73,7 @@
       "portalShape": ""
     },
     "12": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 300,
       "ANMJLICEGLD": 30006,
@@ -97,7 +97,7 @@
       "portalShape": ""
     },
     "13": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 300,
       "pos": {
@@ -120,7 +120,7 @@
       "portalShape": ""
     },
     "14": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110008,
       "areaId": 300,
       "ANMJLICEGLD": 30005,
@@ -180,7 +180,7 @@
       "buildingType": "LuminanceStoneNPC"
     },
     "17": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 300,
       "pos": {
@@ -203,7 +203,7 @@
       "portalShape": ""
     },
     "18": {
-      "$type": "BDFKPODONOG",
+      "$type": "DungeonEntry",
       "gadgetId": 70360001,
       "areaId": 300,
       "pos": {
@@ -254,7 +254,7 @@
       "buildingType": "CocoonSpace"
     },
     "2": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 300,
       "ANMJLICEGLD": 30001,
@@ -278,7 +278,7 @@
       "portalShape": ""
     },
     "20": {
-      "$type": "DNBJJDHNDDK",
+      "$type": "PersonalSceneJumpPoint",
       "gadgetId": 70010002,
       "areaId": 300,
       "pos": {
@@ -305,7 +305,7 @@
       "closeTime": 24.0
     },
     "3": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 300,
       "ANMJLICEGLD": 30007,
@@ -326,7 +326,7 @@
       "portalShape": ""
     },
     "4": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 300,
       "ANMJLICEGLD": 30002,
@@ -353,7 +353,7 @@
       "portalShape": ""
     },
     "5": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 300,
       "ANMJLICEGLD": 30002,
@@ -374,7 +374,7 @@
       "portalShape": ""
     },
     "6": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 300,
       "ANMJLICEGLD": 30001,
@@ -395,7 +395,7 @@
       "portalShape": ""
     },
     "7": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 300,
       "ANMJLICEGLD": 30004,
@@ -421,7 +421,7 @@
       "portalShape": ""
     },
     "8": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 300,
       "ANMJLICEGLD": 30005,
@@ -442,7 +442,7 @@
       "portalShape": ""
     },
     "9": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 300,
       "ANMJLICEGLD": 30005,

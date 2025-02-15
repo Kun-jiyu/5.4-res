@@ -2,7 +2,7 @@
    
   "points": {
     "10": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 210,
       "ANMJLICEGLD": 21003,
@@ -29,7 +29,7 @@
       "portalShape": ""
     },
     "11": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "damageRatio": "PORTAL",
       "gadgetId": 70110003,
       "areaId": 210,
@@ -52,7 +52,7 @@
       "portalShape": ""
     },
     "12": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "damageRatio": "PORTAL",
       "gadgetId": 70110003,
       "areaId": 210,
@@ -75,7 +75,7 @@
       "portalShape": ""
     },
     "13": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "damageRatio": "PORTAL",
       "gadgetId": 70110003,
       "areaId": 210,
@@ -116,7 +116,7 @@
       "buildingType": "MichiaeOffering"
     },
     "15": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 210,
       "ANMJLICEGLD": 21006,
@@ -145,7 +145,7 @@
       "portalShape": ""
     },
     "16": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 210,
       "pos": {
@@ -173,7 +173,7 @@
       "portalShape": ""
     },
     "17": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 210,
       "ANMJLICEGLD": 21008,
@@ -202,7 +202,7 @@
       "portalShape": ""
     },
     "2": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 210,
       "ANMJLICEGLD": 21002,
@@ -227,7 +227,7 @@
       "portalShape": ""
     },
     "3": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 210,
       "ANMJLICEGLD": 21003,
@@ -252,7 +252,7 @@
       "portalShape": ""
     },
     "5": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 210,
       "ANMJLICEGLD": 21004,
@@ -281,7 +281,7 @@
       "portalShape": ""
     },
     "7": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 210,
       "ANMJLICEGLD": 21004,
@@ -305,7 +305,7 @@
       "portalShape": ""
     },
     "8": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 210,
       "ANMJLICEGLD": 21005,
@@ -334,7 +334,7 @@
       "portalShape": ""
     },
     "9": {
-      "$type": "ALNIHCIIIJN",
+      "$type": "TransPointNormal",
       "gadgetId": 70110002,
       "areaId": 210,
       "ANMJLICEGLD": 21005,

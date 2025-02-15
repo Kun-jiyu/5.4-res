@@ -2,7 +2,7 @@
    
   "points": {
     "1": {
-      "$type": "BDFKPODONOG",
+      "$type": "DungeonEntry",
       "pos": {
         "x": 56.319549560546875,
         "y": 2.683000087738037,
@@ -27,7 +27,7 @@
       "dungeonEntryType": "RoleCombat"
     },
     "2": {
-      "$type": "IJGKGPNPMFO",
+      "$type": "DungeonExit",
       "gadgetId": 70010002,
       "pos": {
         "x": 40.592079162597656,

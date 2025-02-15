@@ -2,7 +2,7 @@
    
   "points": {
     "1": {
-      "$type": "DNBJJDHNDDK",
+      "$type": "PersonalSceneJumpPoint",
       "gadgetId": 70010002,
       "pos": {
         "x": 0.8437293171882629,
@@ -29,7 +29,7 @@
       "closeTime": 24.0
     },
     "2": {
-      "$type": "DNBJJDHNDDK",
+      "$type": "PersonalSceneJumpPoint",
       "gadgetId": 70010002,
       "pos": {
         "x": -5.695984840393066,
@@ -58,7 +58,7 @@
       "closeTime": 24.0
     },
     "3": {
-      "$type": "DNBJJDHNDDK",
+      "$type": "PersonalSceneJumpPoint",
       "gadgetId": 70010002,
       "pos": {
         "x": -5.695984840393066,

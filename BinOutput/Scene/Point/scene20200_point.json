@@ -21,7 +21,7 @@
       "effectiveType": "Mirror"
     },
     "2": {
-      "$type": "BDFKPODONOG",
+      "$type": "DungeonEntry",
       "gadgetId": 70010006,
       "pos": {
         "x": 3413.741943359375,
