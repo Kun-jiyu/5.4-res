@@ -2,15 +2,15 @@
   "common": {
     "effectAttachShape": {
       "$type": "DPGKNHENGLM",
-      "DDDEJPIFECG": "EffectMesh"
+      "mesh": "EffectMesh"
     },
     "mass": 10.0,
     "height": 0.5,
     "affectedByWorld": true,
     "checkInSurface": true,
     "canTriggerElementReactionText": false,
-    "BKPPECPBMBF": true,
-    "LOGFKHMLOOL": true
+    "reconnectSupport": true,
+    "recoverByInitPose": true
   },
   "model": {
     "bornEffect": "",

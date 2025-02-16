@@ -1,7 +1,7 @@
 [
   {
     "Default": {
-      "$type": "FGKJODDHNFD",
+      "$type": "ConfigAbility",
       "abilityName": "TeamResonance_Fire_Lv2",
       "abilitySpecials": {
         "TeamResonance_Fire_Lv2_DurationRatio": 0.0,
@@ -11,7 +11,7 @@
         "UNIQUE_TeamResonance_Fire_Lv2": {
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "properties": {
             "Actor_AttackRatio": "TeamResonance_Fire_Lv2_AttackRatio"
           },
@@ -38,7 +38,7 @@
   },
   {
     "Default": {
-      "$type": "FGKJODDHNFD",
+      "$type": "ConfigAbility",
       "abilityName": "TeamResonance_Water_Lv2",
       "abilitySpecials": {
         "TeamResonance_Water_Lv2_DurationRatio": 0.0,
@@ -48,7 +48,7 @@
         "UNIQUE_TeamResonance_Water_Lv2": {
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "properties": {
             "Actor_MaxHPRatio": "TeamResonance_Water_Lv2_MaxHPRatio"
           },
@@ -75,7 +75,7 @@
   },
   {
     "Default": {
-      "$type": "FGKJODDHNFD",
+      "$type": "ConfigAbility",
       "abilityName": "TeamResonance_Ice_Lv2",
       "abilitySpecials": {
         "TeamResonance_Ice_Lv2_BonusCritical": 0.0,
@@ -85,7 +85,7 @@
         "UNIQUE_TeamResonance_Ice_Lv2": {
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "modifierMixins": [
             {
               "$type": "KAEOMMCGJAG",
@@ -131,7 +131,7 @@
   },
   {
     "Default": {
-      "$type": "FGKJODDHNFD",
+      "$type": "ConfigAbility",
       "abilityName": "TeamResonance_Electric_Lv2",
       "abilitySpecials": {
         "TeamResonance_Electric_Lv2_DurationRatio": 0.0,
@@ -142,7 +142,7 @@
         "UNIQUE_TeamResonance_Electric_Lv2": {
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "modifierMixins": [
             {
               "$type": "EDEAKDKAHDI",
@@ -201,8 +201,8 @@
           "stacking": "Unique",
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "OLGDMDBPCIP": 1.5,
-          "DMCLENCALMP": 100.0,
+          "duration": 1.5,
+          "elementDurability": 100.0,
           "onAdded": [
             {
               "$type": "EIOIOCFBOEK",
@@ -214,7 +214,7 @@
                   "shieldHP": true,
                   "predicates": [
                     {
-                      "$type": "HMFPJIKNKAG",
+                      "$type": "ByTargetGlobalValue",
                       "target": "Team",
                       "key": "_ABILITY_TEAMRESONANCE_ELECTRIC_LV2_COOLDOWN",
                       "ratio": 0.0,
@@ -223,7 +223,7 @@
                   ],
                   "configID": 2020,
                   "born": {
-                    "$type": "AHFPPJGKILD",
+                    "$type": "ConfigBornByTarget",
                     "offset": {
                       "EJJHJBGPAKH": 0.0,
                       "AODIKJMCHNK": 0.0,
@@ -244,7 +244,7 @@
                   "shieldHP": true,
                   "predicates": [
                     {
-                      "$type": "HMFPJIKNKAG",
+                      "$type": "ByTargetGlobalValue",
                       "target": "Team",
                       "key": "_ABILITY_TEAMRESONANCE_ELECTRIC_LV2_COOLDOWN",
                       "ratio": 0.0,
@@ -260,8 +260,8 @@
         "UNIQUE_TeamResonance_Electric_Lv2_DropBall_CoolDown": {
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "OLGDMDBPCIP": "TeamResonance_Electric_Lv2_Cooldown",
-          "DMCLENCALMP": 100.0,
+          "duration": "TeamResonance_Electric_Lv2_Cooldown",
+          "elementDurability": 100.0,
           "onAdded": [
             {
               "$type": "BCKBJLFHPHP",
@@ -308,7 +308,7 @@
   },
   {
     "Default": {
-      "$type": "FGKJODDHNFD",
+      "$type": "ConfigAbility",
       "abilityName": "TeamResonance_Rock_Lv2",
       "abilitySpecials": {
         "TeamResonance_Rock_Lv2_DamagePercentageRatio": 0.0,
@@ -320,7 +320,7 @@
         "UNIQUE_TeamResonance_Rock_Lv2": {
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "modifierMixins": [
             {
               "$type": "KAEOMMCGJAG",
@@ -340,7 +340,7 @@
           },
           "onAttackLanded": [
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "target": "Target",
               "targetPredicates": [
                 {
@@ -350,7 +350,7 @@
                   ]
                 },
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "key": "_ANIMAL_ENTITY_TYPE",
                   "ratio": 0.0,
                   "compareType": "NoneOrEqual"
@@ -380,8 +380,8 @@
           "stacking": "RefreshUniqueDurability",
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "OLGDMDBPCIP": "TeamResonance_Rock_Lv2_RockSubHurtDuration",
-          "DMCLENCALMP": 100.0,
+          "duration": "TeamResonance_Rock_Lv2_RockSubHurtDuration",
+          "elementDurability": 100.0,
           "properties": {
             "Actor_RockSubHurtDelta": "TeamResonance_Rock_Lv2_RockSubHurtDelta"
           },
@@ -401,7 +401,7 @@
   },
   {
     "Default": {
-      "$type": "FGKJODDHNFD",
+      "$type": "ConfigAbility",
       "abilityName": "TeamResonance_Wind_Lv2",
       "abilitySpecials": {
         "TeamResonance_Wind_Lv2_CostStaminaRatio": 0.0,
@@ -412,7 +412,7 @@
         "UNIQUE_TeamResonance_Wind_Lv2": {
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "properties": {
             "Actor_CostStaminaRatio": "TeamResonance_Wind_Lv2_CostStaminaRatio",
             "Animator_MoveSpeedRatio": "TeamResonance_Wind_Lv2_MoveSpeedRatio",
@@ -433,7 +433,7 @@
   },
   {
     "Default": {
-      "$type": "FGKJODDHNFD",
+      "$type": "ConfigAbility",
       "abilityName": "TeamResonance_Grass_Lv2",
       "abilitySpecials": {
         "TeamResonance_Grass_Lv2_ElemMasteryDelta": 0.0,
@@ -446,7 +446,7 @@
         "UNIQUE_TeamResonance_Grass_Lv2": {
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "modifierMixins": [
             {
               "$type": "EDEAKDKAHDI",
@@ -513,8 +513,8 @@
           "stacking": "RefreshUniqueDurability",
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "OLGDMDBPCIP": "TeamResonance_Grass_Lv2_MasteryUp_Basic_Duration",
-          "DMCLENCALMP": 100.0,
+          "duration": "TeamResonance_Grass_Lv2_MasteryUp_Basic_Duration",
+          "elementDurability": 100.0,
           "properties": {
             "Actor_ElemMasteryDelta": "TeamResonance_Grass_Lv2_MasteryUp_Basic_ElemMasteryDelta"
           },
@@ -524,8 +524,8 @@
           "stacking": "RefreshUniqueDurability",
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "OLGDMDBPCIP": "TeamResonance_Grass_Lv2_MasteryUp_Advanced_Duration",
-          "DMCLENCALMP": 100.0,
+          "duration": "TeamResonance_Grass_Lv2_MasteryUp_Advanced_Duration",
+          "elementDurability": 100.0,
           "properties": {
             "Actor_ElemMasteryDelta": "TeamResonance_Grass_Lv2_MasteryUp_Advanced_ElemMasteryDelta"
           },
@@ -544,7 +544,7 @@
   },
   {
     "Default": {
-      "$type": "FGKJODDHNFD",
+      "$type": "ConfigAbility",
       "abilityName": "TeamResonance_AllDifferent",
       "abilitySpecials": {
         "TeamResonance_AllDifferent_SubHurtDelta": 0.0
@@ -553,7 +553,7 @@
         "UNIQUE_TeamResonance_AllDifferent": {
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "properties": {
             "Actor_FireSubHurtDelta": "TeamResonance_AllDifferent_SubHurtDelta",
             "Actor_ElecSubHurtDelta": "TeamResonance_AllDifferent_SubHurtDelta",
@@ -579,13 +579,13 @@
   },
   {
     "Default": {
-      "$type": "FGKJODDHNFD",
+      "$type": "ConfigAbility",
       "abilityName": "TeamResonance_WhiteBox_All",
       "modifiers": {
         "UNIQUE_TeamResonance_WhiteBox_Fire_Lv2": {
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "properties": {
             "Actor_AttackRatio": 0.05000000074505806
           },
@@ -606,7 +606,7 @@
         "UNIQUE_TeamResonance_WhiteBox_Water_Lv2": {
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "properties": {
             "Actor_HealedAddDelta": 0.10000000149011612
           },
@@ -622,7 +622,7 @@
         "UNIQUE_TeamResonance_WhiteBox_Electric_Lv2": {
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "modifierMixins": [
             {
               "$type": "EDEAKDKAHDI",
@@ -659,8 +659,8 @@
           "stacking": "Unique",
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "OLGDMDBPCIP": 5.0,
-          "DMCLENCALMP": 100.0,
+          "duration": 5.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
               "$type": "COMJPHINKMB",
@@ -672,7 +672,7 @@
               "$type": "ELBJDGMCPID",
               "configID": 2020,
               "born": {
-                "$type": "AHFPPJGKILD",
+                "$type": "ConfigBornByTarget",
                 "offset": {
                   "EJJHJBGPAKH": 0.0,
                   "AODIKJMCHNK": 0.0,
@@ -692,7 +692,7 @@
         "UNIQUE_TeamResonance_WhiteBox_Ice_Lv2": {
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "modifierMixins": [
             {
               "$type": "KAEOMMCGJAG",
@@ -735,7 +735,7 @@
         "UNIQUE_TeamResonance_WhiteBox_Rock_Lv2": {
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "modifierMixins": [
             {
               "$type": "KAEOMMCGJAG",
@@ -758,7 +758,7 @@
         "UNIQUE_TeamResonance_WhiteBox_Wind_Lv2": {
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "properties": {
             "Actor_CostStaminaRatio": -0.05000000074505806,
             "Animator_MoveSpeedRatio": 0.05000000074505806,
@@ -769,7 +769,7 @@
         "UNIQUE_TeamResonance_WhiteBox_AllDifferent": {
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "properties": {
             "Actor_FireSubHurtDelta": 0.05000000074505806,
             "Actor_ElecSubHurtDelta": 0.05000000074505806,

@@ -2,7 +2,7 @@
   "MDJNFHAJPAD": {
     "FAIKDMCHPEL": {
       "$type": "DPGKNHENGLM",
-      "DDDEJPIFECG": "EffectMesh"
+      "mesh": "EffectMesh"
     },
     "FINMNFLLAMB": 30.0,
     "MBMBBGOGNHF": true,
@@ -15,7 +15,7 @@
   "LBGLCHLIKJP": {
     "$type": "NJIKCGBDNDF",
     "HONCKGMDJEK": true,
-    "FDPCOFKGCHG": [
+    "animStates": [
       "NormalIdle/Standby",
       "NormalMove/Walk",
       "NormalMove/Run",

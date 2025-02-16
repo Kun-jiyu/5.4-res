@@ -2,7 +2,7 @@
   "common": {
     "effectAttachShape": {
       "$type": "DPGKNHENGLM",
-      "DDDEJPIFECG": "EffectMesh"
+      "mesh": "EffectMesh"
     },
     "mass": 200.0,
     "viewSize": 3.0,
@@ -12,15 +12,15 @@
     "canTriggerElementReactionText": false,
     "useGrassDisplacement": true,
     "muteElementStickUI": true,
-    "BKPPECPBMBF": true,
-    "LOGFKHMLOOL": true
+    "reconnectSupport": true,
+    "recoverByInitPose": true
   },
   "headControl": {
     "$type": "NJIKCGBDNDF",
     "useHeadControl": true,
-    "IKIJCPNMBHI": 10.0,
-    "FMKKBCJKMPH": 5.0,
-    "FDPCOFKGCHG": ["NormalIdle/Standby", "Defend_Loop/Defend_Loop"]
+    "maxYawDegree": 10.0,
+    "maxPitchDegree": 5.0,
+    "animStates": ["NormalIdle/Standby", "Defend_Loop/Defend_Loop"]
   },
   "model": {
     "bornEffect": "",

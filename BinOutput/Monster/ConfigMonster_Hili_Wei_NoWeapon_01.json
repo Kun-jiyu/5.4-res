@@ -2,7 +2,7 @@
   "common": {
     "effectAttachShape": {
       "$type": "DPGKNHENGLM",
-      "DDDEJPIFECG": "EffectMesh"
+      "mesh": "EffectMesh"
     },
     "mass": 30.0,
     "viewSize": 1.2000000476837158,
@@ -16,7 +16,7 @@
   "headControl": {
     "$type": "NJIKCGBDNDF",
     "useHeadControl": true,
-    "FDPCOFKGCHG": [
+    "animStates": [
       "NormalIdle/Standby",
       "NormalMove/WalkForward",
       "NormalMove/WalkBack",

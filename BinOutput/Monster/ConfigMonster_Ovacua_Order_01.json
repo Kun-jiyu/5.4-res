@@ -2,7 +2,7 @@
   "common": {
     "effectAttachShape": {
       "$type": "DPGKNHENGLM",
-      "DDDEJPIFECG": "EffectMesh"
+      "mesh": "EffectMesh"
     },
     "mass": 150.0,
     "height": 3.0,
@@ -11,8 +11,8 @@
     "affectedByWorld": true,
     "checkInSurface": true,
     "useGrassDisplacement": true,
-    "BKPPECPBMBF": true,
-    "LOGFKHMLOOL": true
+    "reconnectSupport": true,
+    "recoverByInitPose": true
   },
   "model": {
     "bornEffect": "",

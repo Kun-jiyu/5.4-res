@@ -2,7 +2,7 @@
   "common": {
     "effectAttachShape": {
       "$type": "DPGKNHENGLM",
-      "DDDEJPIFECG": "EffectMesh"
+      "mesh": "EffectMesh"
     },
     "mass": 40.0,
     "height": 0.8999999761581421,
@@ -11,8 +11,8 @@
     "checkInSurface": true,
     "scale": 1.2999999523162842,
     "clearAIOnSetLightDeactive": true,
-    "BKPPECPBMBF": true,
-    "LOGFKHMLOOL": true
+    "reconnectSupport": true,
+    "recoverByInitPose": true
   },
   "model": {
     "bornEffect": "",

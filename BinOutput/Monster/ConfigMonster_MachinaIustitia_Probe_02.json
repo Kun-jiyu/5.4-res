@@ -2,7 +2,7 @@
   "common": {
     "effectAttachShape": {
       "$type": "DPGKNHENGLM",
-      "DDDEJPIFECG": "EffectMesh"
+      "mesh": "EffectMesh"
     },
     "mass": 150.0,
     "height": 2.0,
@@ -12,16 +12,16 @@
     "checkInSurface": true,
     "shouldPauseAnimatorBeforeReady": true,
     "useGrassDisplacement": true,
-    "BKPPECPBMBF": true,
-    "LOGFKHMLOOL": true
+    "reconnectSupport": true,
+    "recoverByInitPose": true
   },
   "headControl": {
     "$type": "NJIKCGBDNDF",
     "useHeadControl": true,
-    "IKIJCPNMBHI": 360.0,
-    "FMKKBCJKMPH": 10.0,
+    "maxYawDegree": 360.0,
+    "maxPitchDegree": 10.0,
     "speed": 5.0,
-    "FDPCOFKGCHG": [
+    "animStates": [
       "RangeAttack01_BS",
       "RangeAttack01_Loop",
       "RangeAttack01_AS"

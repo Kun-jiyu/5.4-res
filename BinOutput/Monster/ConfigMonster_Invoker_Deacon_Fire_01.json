@@ -2,7 +2,7 @@
   "common": {
     "effectAttachShape": {
       "$type": "DPGKNHENGLM",
-      "DDDEJPIFECG": "EffectMesh"
+      "mesh": "EffectMesh"
     },
     "mass": 10000.0,
     "height": 2.700000047683716,
@@ -17,9 +17,9 @@
   "headControl": {
     "$type": "NJIKCGBDNDF",
     "useHeadControl": true,
-    "IKIJCPNMBHI": 10.0,
-    "FMKKBCJKMPH": 5.0,
-    "FDPCOFKGCHG": ["NormalIdle/standby", "NormalMove/Walk"]
+    "maxYawDegree": 10.0,
+    "maxPitchDegree": 5.0,
+    "animStates": ["NormalIdle/standby", "NormalMove/Walk"]
   },
   "model": {
     "bornEffect": "Eff_Monster_Invoker_Born",

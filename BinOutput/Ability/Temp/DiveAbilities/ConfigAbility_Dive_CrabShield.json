@@ -1,16 +1,16 @@
 [
   {
     "Default": {
-      "$type": "FGKJODDHNFD",
+      "$type": "ConfigAbility",
       "abilityName": "Avatar_Dive_CrabShield_HitBox",
       "modifiers": {
         "Dive_CrabShield_HitBox_Driver": {
           "modifierName": "",
-          "OLGDMDBPCIP": 1.2000000476837158,
-          "DMCLENCALMP": 100.0,
+          "duration": 1.2000000476837158,
+          "elementDurability": 100.0,
           "onAdded": [
             {
-              "$type": "LKDKPDGBEBF",
+              "$type": "AttachEffect",
               "rotationDampTime": "Eff_Avatar_Diving_Shield_Attack_Back",
               "GNJCLBNGGBN": 1.0,
               "DAFPKJDDJHF": -1.0
@@ -18,20 +18,20 @@
           ],
           "onRemoved": [
             {
-              "$type": "ENLCJEPPPCI"
+              "$type": "KillSelf"
             }
           ],
           "onBeingHit": [
             {
-              "$type": "LJIOMNEFBAB",
+              "$type": "DebugLog",
               "content": "CrabShield111111111111111111111111111111111111111111"
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "target": "Other",
               "successActions": [
                 {
-                  "$type": "FMPCDIIEDCL",
+                  "$type": "SetGlobalPos",
                   "key": "_ABILITY_CrabShield_CollisionPoint_On_Gadget",
                   "born": {
                     "$type": "EKCEGNKLIGJ",
@@ -40,52 +40,52 @@
                   "setTarget": false
                 },
                 {
-                  "$type": "FMPCDIIEDCL",
+                  "$type": "SetGlobalPos",
                   "target": "TargetOwner",
                   "key": "_ABILITY_CrabShield_OwnerPos_On_Gadget",
                   "born": {
-                    "$type": "AHFPPJGKILD",
+                    "$type": "ConfigBornByTarget",
                     "useRotation": true
                   },
                   "setTarget": false
                 },
                 {
-                  "$type": "EJHKLOGOCEL",
+                  "$type": "CopyGlobalValue",
                   "srcTarget": "Self",
                   "dstTarget": "Owner",
                   "srcKey": "_ABILITY_CrabShield_CollisionPoint_On_Gadget_0",
                   "dstKey": "_ABILITY_CrabShield_CollisionPoint_On_Avatar_0"
                 },
                 {
-                  "$type": "EJHKLOGOCEL",
+                  "$type": "CopyGlobalValue",
                   "srcTarget": "Self",
                   "dstTarget": "Owner",
                   "srcKey": "_ABILITY_CrabShield_CollisionPoint_On_Gadget_1",
                   "dstKey": "_ABILITY_CrabShield_CollisionPoint_On_Avatar_1"
                 },
                 {
-                  "$type": "EJHKLOGOCEL",
+                  "$type": "CopyGlobalValue",
                   "srcTarget": "Self",
                   "dstTarget": "Owner",
                   "srcKey": "_ABILITY_CrabShield_CollisionPoint_On_Gadget_2",
                   "dstKey": "_ABILITY_CrabShield_CollisionPoint_On_Avatar_2"
                 },
                 {
-                  "$type": "EJHKLOGOCEL",
+                  "$type": "CopyGlobalValue",
                   "srcTarget": "Self",
                   "dstTarget": "Owner",
                   "srcKey": "_ABILITY_CrabShield_OwnerPos_On_Gadget_0",
                   "dstKey": "_ABILITY_CrabShield_OwnerPos_On_Avatar_0"
                 },
                 {
-                  "$type": "EJHKLOGOCEL",
+                  "$type": "CopyGlobalValue",
                   "srcTarget": "Self",
                   "dstTarget": "Owner",
                   "srcKey": "_ABILITY_CrabShield_OwnerPos_On_Gadget_1",
                   "dstKey": "_ABILITY_CrabShield_OwnerPos_On_Avatar_1"
                 },
                 {
-                  "$type": "EJHKLOGOCEL",
+                  "$type": "CopyGlobalValue",
                   "srcTarget": "Self",
                   "dstTarget": "Owner",
                   "srcKey": "_ABILITY_CrabShield_OwnerPos_On_Gadget_2",
@@ -103,14 +103,14 @@
         "Dive_CrabShield_TriggerAvatar_Back": {
           "stacking": "Multiple",
           "modifierName": "",
-          "OLGDMDBPCIP": 1.0,
-          "DMCLENCALMP": 100.0,
+          "duration": 1.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
-              "$type": "JKHLPMAGLLC",
+              "$type": "SetAnimatorTrigger",
               "predicates": [
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "target": "Self",
                   "key": "_ABILITY_CrabShield_Hit_Back_Success_Mark",
                   "ratio": 0.0,
@@ -123,7 +123,7 @@
               "$type": "IOEJKHHDKBM",
               "predicates": [
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "target": "Caster",
                   "key": "_ABILITY_CrabShield_Hit_Back_Success_Mark",
                   "ratio": 0.0,
@@ -137,7 +137,7 @@
               "$type": "HCBCBBHLDKG",
               "predicates": [
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "target": "Caster",
                   "key": "_ABILITY_CrabShield_Hit_Back_Success_Mark",
                   "ratio": 0.0,
@@ -184,16 +184,16 @@
   },
   {
     "Default": {
-      "$type": "FGKJODDHNFD",
+      "$type": "ConfigAbility",
       "abilityName": "Avatar_Dive_CrabShield_HitBox_Long",
       "modifiers": {
         "Dive_CrabShield_HitBox_Driver": {
           "modifierName": "",
-          "OLGDMDBPCIP": 1.2000000476837158,
-          "DMCLENCALMP": 100.0,
+          "duration": 1.2000000476837158,
+          "elementDurability": 100.0,
           "onAdded": [
             {
-              "$type": "LKDKPDGBEBF",
+              "$type": "AttachEffect",
               "rotationDampTime": "Eff_Monster_Apparatus_Enigma_BionicInsecta_Shield",
               "GNJCLBNGGBN": 1.0,
               "DAFPKJDDJHF": -1.0
@@ -201,16 +201,16 @@
           ],
           "onRemoved": [
             {
-              "$type": "ENLCJEPPPCI"
+              "$type": "KillSelf"
             }
           ],
           "onBeingHit": [
             {
-              "$type": "LJIOMNEFBAB",
+              "$type": "DebugLog",
               "content": "CrabShield111111111111111111111111111111111111111111"
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "target": "Other",
               "targetPredicates": [
                 {
@@ -224,7 +224,7 @@
               ],
               "successActions": [
                 {
-                  "$type": "FMPCDIIEDCL",
+                  "$type": "SetGlobalPos",
                   "key": "_ABILITY_CrabShield_CollisionPoint_On_Gadget",
                   "born": {
                     "$type": "EKCEGNKLIGJ",
@@ -233,11 +233,11 @@
                   "setTarget": false
                 },
                 {
-                  "$type": "FMPCDIIEDCL",
+                  "$type": "SetGlobalPos",
                   "target": "TargetOwner",
                   "key": "_ABILITY_CrabShield_OwnerPos_On_Gadget",
                   "born": {
-                    "$type": "AHFPPJGKILD",
+                    "$type": "ConfigBornByTarget",
                     "useRotation": true
                   },
                   "setTarget": false
@@ -272,14 +272,14 @@
         "Dive_CrabShield_TriggerAvatar_Back": {
           "stacking": "Multiple",
           "modifierName": "",
-          "OLGDMDBPCIP": 1.0,
-          "DMCLENCALMP": 100.0,
+          "duration": 1.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
-              "$type": "JKHLPMAGLLC",
+              "$type": "SetAnimatorTrigger",
               "predicates": [
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "target": "Self",
                   "key": "_ABILITY_CrabShield_Hit_Back_Success_Mark",
                   "ratio": 0.0,
@@ -292,7 +292,7 @@
               "$type": "IOEJKHHDKBM",
               "predicates": [
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "target": "Caster",
                   "key": "_ABILITY_CrabShield_Hit_Back_Success_Mark",
                   "ratio": 0.0,
@@ -306,7 +306,7 @@
               "$type": "HCBCBBHLDKG",
               "predicates": [
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "target": "Caster",
                   "key": "_ABILITY_CrabShield_Hit_Back_Success_Mark",
                   "ratio": 0.0,
@@ -353,7 +353,7 @@
   },
   {
     "Default": {
-      "$type": "FGKJODDHNFD",
+      "$type": "ConfigAbility",
       "abilityName": "Absorb_CrabShield_Back_Bullet_01",
       "abilitySpecials": {
         "DamageSystemValue": 0.0,
@@ -362,10 +362,10 @@
       "modifiers": {
         "spider_bullet_Loop": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
-              "$type": "LKDKPDGBEBF",
+              "$type": "AttachEffect",
               "rotationDampTime": "Eff_Avatar_Diving_Shield_Back_Bullet",
               "GNJCLBNGGBN": 1.0,
               "DAFPKJDDJHF": -1.0
@@ -405,7 +405,7 @@
               "attenuationGroup": "default",
               "attackProperty": {
                 "actorIceSubHurtDelta": 0.0,
-                "DMCLENCALMP": 100.0,
+                "elementDurability": 100.0,
                 "strikeType": "Pierce",
                 "enBreak": 50.0,
                 "BKBMPEMFOIH": [
@@ -448,7 +448,7 @@
   },
   {
     "Default": {
-      "$type": "FGKJODDHNFD",
+      "$type": "ConfigAbility",
       "abilityName": "Absorb_CrabShield_Back_Bullet_02",
       "abilitySpecials": {
         "DamageSystemValue": 0.0,
@@ -458,8 +458,8 @@
         "UNIQUE_SlowDown": {
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "OLGDMDBPCIP": 5.0,
-          "DMCLENCALMP": 100.0,
+          "duration": 5.0,
+          "elementDurability": 100.0,
           "properties": {
             "Animator_MoveSpeedRatio": -0.5
           },
@@ -468,10 +468,10 @@
         },
         "spider_bullet_Loop": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
-              "$type": "LKDKPDGBEBF",
+              "$type": "AttachEffect",
               "rotationDampTime": "Eff_Avatar_Diving_Shield_Back_Bullet",
               "GNJCLBNGGBN": 1.0,
               "DAFPKJDDJHF": -1.0
@@ -514,7 +514,7 @@
               "attenuationGroup": "default",
               "attackProperty": {
                 "actorIceSubHurtDelta": 0.0,
-                "DMCLENCALMP": 100.0,
+                "elementDurability": 100.0,
                 "strikeType": "Pierce",
                 "enBreak": 50.0,
                 "BKBMPEMFOIH": [
@@ -550,7 +550,7 @@
   },
   {
     "Default": {
-      "$type": "FGKJODDHNFD",
+      "$type": "ConfigAbility",
       "abilityName": "Ability_Avatar_Dive_CrabShield",
       "abilitySpecials": {
         "DamageSystemValue": 0.0,
@@ -565,7 +565,7 @@
       "modifiers": {
         "Avatar_Dive_CrabShield_AddSkillInfo": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
               "$type": "JFDLPENKFGC",
@@ -584,7 +584,7 @@
         },
         "Avatar_Dive_CrabShield_Hold_Handler": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "modifierMixins": [
             {
               "$type": "JIDELJNLJJM",
@@ -605,7 +605,7 @@
                   "$type": "PAEEFDCCFEK",
                   "predicates": [
                     {
-                      "$type": "HMFPJIKNKAG",
+                      "$type": "ByTargetGlobalValue",
                       "target": "Self",
                       "key": "_ABILITY_Diving_Skill_In_Focus_Skill_Mark",
                       "ratio": 0.0,
@@ -615,30 +615,30 @@
                   "modifierName": "Focus_Father"
                 },
                 {
-                  "$type": "JKHLPMAGLLC",
+                  "$type": "SetAnimatorTrigger",
                   "triggerID": "StartDiveCastTrigger"
                 },
                 {
-                  "$type": "JKHLPMAGLLC",
+                  "$type": "SetAnimatorTrigger",
                   "triggerID": "StartDiveCastTrigger2"
                 }
               ],
               "onReleaseSecondCharged": [
                 {
-                  "$type": "JKHLPMAGLLC",
+                  "$type": "SetAnimatorTrigger",
                   "triggerID": "EndDiveCastTrigger"
                 }
               ],
               "onCancelCharged": [
                 {
-                  "$type": "JKHLPMAGLLC",
+                  "$type": "SetAnimatorTrigger",
                   "triggerID": "EndDiveCastTrigger"
                 },
                 {
                   "$type": "PAEEFDCCFEK",
                   "predicates": [
                     {
-                      "$type": "HMFPJIKNKAG",
+                      "$type": "ByTargetGlobalValue",
                       "target": "Self",
                       "key": "_ABILITY_Diving_Skill_In_Focus_Skill_Mark",
                       "ratio": 2.0
@@ -669,8 +669,8 @@
         "Clear_Focus_Father": {
           "stacking": "Multiple",
           "modifierName": "",
-          "OLGDMDBPCIP": 0.20000000298023224,
-          "DMCLENCALMP": 100.0,
+          "duration": 0.20000000298023224,
+          "elementDurability": 100.0,
           "onAdded": [
             {
               "$type": "KKDKALJICPJ",
@@ -681,7 +681,7 @@
         },
         "Focus_Father": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "modifierMixins": [
             {
               "$type": "KCEIHEHGBBE",
@@ -734,18 +734,18 @@
         },
         "Focus_Remove_Delay_Trigger": {
           "modifierName": "",
-          "OLGDMDBPCIP": 10.0,
-          "DMCLENCALMP": 100.0,
+          "duration": 10.0,
+          "elementDurability": 100.0,
           "onRemoved": [
             {
-              "$type": "JKHLPMAGLLC",
+              "$type": "SetAnimatorTrigger",
               "triggerID": "EndDiveCastTrigger"
             },
             {
               "$type": "PAEEFDCCFEK",
               "predicates": [
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "target": "Self",
                   "key": "_ABILITY_Diving_Skill_In_Focus_Skill_Mark",
                   "ratio": 2.0
@@ -758,8 +758,8 @@
         "Focus_Remove_Delay": {
           "stacking": "Unique",
           "modifierName": "",
-          "OLGDMDBPCIP": 0.5,
-          "DMCLENCALMP": 100.0,
+          "duration": 0.5,
+          "elementDurability": 100.0,
           "thinkInterval": 0.12999999523162842,
           "onAdded": [
             {
@@ -807,11 +807,11 @@
         },
         "Blank": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0
+          "elementDurability": 100.0
         },
         "Aim_Camera_Eff": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "modifierMixins": [
             {
               "$type": "JEPPPIENMGK",
@@ -840,7 +840,7 @@
         },
         "Focus": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "modifierMixins": [
             {
               "$type": "NDDAMIHJJLG",
@@ -892,7 +892,7 @@
               "modifierName": "Aim_Camera_Eff"
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -932,7 +932,7 @@
               ]
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -971,7 +971,7 @@
               ]
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -1010,7 +1010,7 @@
               ]
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -1049,7 +1049,7 @@
               ]
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -1136,8 +1136,8 @@
         "VFX_Trigger": {
           "stacking": "Multiple",
           "modifierName": "",
-          "OLGDMDBPCIP": 0.5,
-          "DMCLENCALMP": 100.0,
+          "duration": 0.5,
+          "elementDurability": 100.0,
           "onAdded": [
             {
               "$type": "COMJPHINKMB",
@@ -1199,10 +1199,10 @@
         },
         "VFX": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -1219,7 +1219,7 @@
               ]
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -1236,7 +1236,7 @@
               ]
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -1253,7 +1253,7 @@
               ]
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -1270,7 +1270,7 @@
               ]
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -1290,10 +1290,10 @@
         },
         "VFX_L": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
-              "$type": "LKDKPDGBEBF",
+              "$type": "AttachEffect",
               "rotationDampTime": "Eff_Avatar_Diving_Gadget_Loop",
               "GNJCLBNGGBN": 1.0,
               "DAFPKJDDJHF": -1.0
@@ -1302,10 +1302,10 @@
         },
         "VFX_R": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
-              "$type": "LKDKPDGBEBF",
+              "$type": "AttachEffect",
               "rotationDampTime": "Eff_Avatar_Diving_Gadget_Loop_2",
               "GNJCLBNGGBN": 1.0,
               "DAFPKJDDJHF": -1.0
@@ -1314,10 +1314,10 @@
         },
         "VFX_L_Enhanced": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
-              "$type": "LKDKPDGBEBF",
+              "$type": "AttachEffect",
               "rotationDampTime": "Eff_Avatar_Diving_Gadget_Loop_Enhanced",
               "GNJCLBNGGBN": 1.0,
               "DAFPKJDDJHF": -1.0
@@ -1326,10 +1326,10 @@
         },
         "VFX_R_Enhanced": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
-              "$type": "LKDKPDGBEBF",
+              "$type": "AttachEffect",
               "rotationDampTime": "Eff_Avatar_Diving_Gadget_Loop_2_Enhanced",
               "GNJCLBNGGBN": 1.0,
               "DAFPKJDDJHF": -1.0
@@ -1338,17 +1338,17 @@
         },
         "Avatar_Diving_Crab_Aim_Mixin": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "modifierMixins": [
             {
               "$type": "OPFHIMEMABJ",
               "globalValueKey": "_ABILITY_Diving_Aim_Success_Mark",
               "actions": [
                 {
-                  "$type": "EPKHDMNNGIM",
+                  "$type": "Predicated",
                   "targetPredicates": [
                     {
-                      "$type": "HMFPJIKNKAG",
+                      "$type": "ByTargetGlobalValue",
                       "target": "Self",
                       "key": "_ABILITY_Diving_Aim_Success_Mark",
                       "ratio": 1.0
@@ -1364,7 +1364,7 @@
                       }
                     },
                     {
-                      "$type": "LJIOMNEFBAB",
+                      "$type": "DebugLog",
                       "content": "#######    settarget     ###"
                     }
                   ],
@@ -1393,7 +1393,7 @@
               "param3": 0.0
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -1410,7 +1410,7 @@
               ]
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -1427,7 +1427,7 @@
               ]
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -1444,7 +1444,7 @@
               ]
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -1461,7 +1461,7 @@
               ]
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -1526,10 +1526,10 @@
         },
         "Focus_Shield_Eff": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
-              "$type": "LKDKPDGBEBF",
+              "$type": "AttachEffect",
               "rotationDampTime": "Eff_Avatar_Diving_Shield",
               "GNJCLBNGGBN": 1.0,
               "DAFPKJDDJHF": -1.0
@@ -1538,8 +1538,8 @@
         },
         "CrabShield_Hit_Check": {
           "modifierName": "",
-          "OLGDMDBPCIP": 12.0,
-          "DMCLENCALMP": 100.0,
+          "duration": 12.0,
+          "elementDurability": 100.0,
           "modifierMixins": [
             {
               "$type": "PODOKLJMFJL",
@@ -1595,7 +1595,7 @@
           ],
           "onRemoved": [
             {
-              "$type": "JKHLPMAGLLC",
+              "$type": "SetAnimatorTrigger",
               "triggerID": "EndDiveCastTrigger"
             },
             {
@@ -1605,7 +1605,7 @@
           ],
           "onBeingHit": [
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "target": "Other",
               "targetPredicates": [
                 {
@@ -1633,15 +1633,15 @@
         "CrabShield_Short": {
           "stacking": "Multiple",
           "modifierName": "",
-          "OLGDMDBPCIP": 1.5,
-          "DMCLENCALMP": 100.0,
+          "duration": 1.5,
+          "elementDurability": 100.0,
           "onAdded": [
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "target": "CurLocalAvatar",
               "targetPredicates": [
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "key": "_ABILITY_Diving_SkillCDReduction",
                   "ratio": 1.0
                 }
@@ -1713,7 +1713,7 @@
                   "attackProperty": {
                     "actorGrassSubHurtDelta": 0.0,
                     "actorIceSubHurtDelta": 0.0,
-                    "DMCLENCALMP": 0.0,
+                    "elementDurability": 0.0,
                     "ignoreAttackerProperty": true,
                     "strikeType": "Blunt",
                     "enBreak": 90.0,
@@ -1774,15 +1774,15 @@
         "CrabShield_Long_V2": {
           "stacking": "Unique",
           "modifierName": "",
-          "OLGDMDBPCIP": 1.0,
-          "DMCLENCALMP": 100.0,
+          "duration": 1.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "target": "CurLocalAvatar",
               "targetPredicates": [
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "key": "_ABILITY_Diving_SkillCDReduction",
                   "ratio": 1.0
                 }
@@ -1824,10 +1824,10 @@
               }
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "target": "Self",
                   "key": "_ABILITY_Diving_Aim_Success_Mark",
                   "ratio": 1.0
@@ -1851,7 +1851,7 @@
                   "param3": 0.0
                 },
                 {
-                  "$type": "LJIOMNEFBAB",
+                  "$type": "DebugLog",
                   "content": "#######    settarget     ###"
                 }
               ],
@@ -1866,13 +1866,13 @@
               "$type": "FMDOIHFLFOP",
               "predicates": [
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "target": "Self",
                   "key": "_ABILITY_Dive_CrabShield_Charging_Hit_Mark",
                   "ratio": 1.0
                 },
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "target": "Self",
                   "key": "_ABILITY_Avatar_DivingCrab_Has_Target_Mark",
                   "ratio": 1.0
@@ -1905,13 +1905,13 @@
               "$type": "FMDOIHFLFOP",
               "predicates": [
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "target": "Self",
                   "key": "_ABILITY_Dive_CrabShield_Charging_Hit_Mark",
                   "ratio": 1.0
                 },
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "target": "Self",
                   "key": "_ABILITY_Avatar_DivingCrab_Has_Target_Mark",
                   "ratio": 0.0,
@@ -1945,7 +1945,7 @@
               "$type": "COMJPHINKMB",
               "predicates": [
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "target": "Self",
                   "key": "_ABILITY_Dive_CrabShield_Charging_Hit_Mark",
                   "ratio": 0.0,
@@ -1998,7 +1998,7 @@
               "$type": "BALDOCOLPLH",
               "predicates": [
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "target": "Self",
                   "key": "_ABILITY_Dive_CrabShield_Charging_Hit_Mark",
                   "ratio": 0.0,
@@ -2045,7 +2045,7 @@
                   "attackProperty": {
                     "actorGrassSubHurtDelta": 0.0,
                     "actorIceSubHurtDelta": 0.0,
-                    "DMCLENCALMP": 0.0,
+                    "elementDurability": 0.0,
                     "ignoreAttackerProperty": true,
                     "strikeType": "Blunt",
                     "enBreak": 90.0,
@@ -2113,7 +2113,7 @@
         },
         "Gadget_Loop": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
               "$type": "HCBCBBHLDKG",
@@ -2137,11 +2137,11 @@
         },
         "Lock_Eff": {
           "modifierName": "",
-          "OLGDMDBPCIP": 25.0,
-          "DMCLENCALMP": 100.0,
+          "duration": 25.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
-              "$type": "LKDKPDGBEBF",
+              "$type": "AttachEffect",
               "rotationDampTime": "Eff_Activity_FungusFighter_Lock",
               "GNJCLBNGGBN": 1.0,
               "DAFPKJDDJHF": -1.0
@@ -2151,8 +2151,8 @@
         "UNIQUE_Dive_Crab_Shield": {
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "OLGDMDBPCIP": 10.199999809265137,
-          "DMCLENCALMP": 8.0,
+          "duration": 10.199999809265137,
+          "elementDurability": 8.0,
           "modifierMixins": [
             {
               "$type": "JLAAJFJBKJG",
@@ -2185,7 +2185,7 @@
         },
         "CrabShield_Long_Back": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
               "$type": "HCBCBBHLDKG",
@@ -2211,7 +2211,7 @@
           "stacking": "Unique",
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "modifierMixins": [
             {
               "$type": "MDAOLAIDKPF",
@@ -2223,7 +2223,7 @@
           },
           "onBeingHit": [
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "target": "Other",
               "targetPredicates": [
                 {
@@ -2337,14 +2337,14 @@
   },
   {
     "Default": {
-      "$type": "FGKJODDHNFD",
+      "$type": "ConfigAbility",
       "abilityName": "Avatar_Dive_Lock_Collider_Driver_CrabShield",
       "modifiers": {
         "UNIQUE_Dive_Lock_Collider_Driver_Delay": {
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "OLGDMDBPCIP": 0.30000001192092896,
-          "DMCLENCALMP": 100.0,
+          "duration": 0.30000001192092896,
+          "elementDurability": 100.0,
           "onRemoved": [
             {
               "$type": "PAEEFDCCFEK",
@@ -2355,7 +2355,7 @@
         "UNIQUE_Dive_Lock_Collider_Driver": {
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "modifierMixins": [
             {
               "$type": "PCEPOONFPBL",
@@ -2368,7 +2368,7 @@
               "KBBFIDFMHEO": -1.0,
               "actionQueue": [
                 {
-                  "$type": "EPKHDMNNGIM",
+                  "$type": "Predicated",
                   "target": "Target",
                   "targetPredicates": [
                     {
@@ -2380,7 +2380,7 @@
                       ]
                     },
                     {
-                      "$type": "HMFPJIKNKAG",
+                      "$type": "ByTargetGlobalValue",
                       "key": "_ANIMAL_ENTITY_TYPE",
                       "ratio": 0.0,
                       "compareType": "NoneOrEqual"
@@ -2414,14 +2414,14 @@
                       "targetKey": "_ABILITY_Diving_Aim_Target_Cache"
                     },
                     {
-                      "$type": "EJHKLOGOCEL",
+                      "$type": "CopyGlobalValue",
                       "srcTarget": "Self",
                       "dstTarget": "OriginOwner",
                       "srcKey": "_ABILITY_Diving_Aim_Target_Cache_0",
                       "dstKey": "_ABILITY_Diving_Aim_Target_Cache_Avatar_0"
                     },
                     {
-                      "$type": "EJHKLOGOCEL",
+                      "$type": "CopyGlobalValue",
                       "srcTarget": "Self",
                       "dstTarget": "OriginOwner",
                       "srcKey": "_ABILITY_Diving_Aim_Target_Cache_1",
@@ -2452,7 +2452,7 @@
                       ]
                     },
                     {
-                      "$type": "HMFPJIKNKAG",
+                      "$type": "ByTargetGlobalValue",
                       "key": "_ANIMAL_ENTITY_TYPE",
                       "ratio": 0.0,
                       "compareType": "NoneOrEqual"
@@ -2484,7 +2484,7 @@
                       ]
                     },
                     {
-                      "$type": "HMFPJIKNKAG",
+                      "$type": "ByTargetGlobalValue",
                       "key": "_ANIMAL_ENTITY_TYPE",
                       "ratio": 0.0,
                       "compareType": "NoneOrEqual"
@@ -2494,7 +2494,7 @@
                   "onlyRemovebyCaster": true
                 },
                 {
-                  "$type": "EPKHDMNNGIM",
+                  "$type": "Predicated",
                   "target": "Target",
                   "predicates": [
                     {
@@ -2506,7 +2506,7 @@
                       ]
                     },
                     {
-                      "$type": "HMFPJIKNKAG",
+                      "$type": "ByTargetGlobalValue",
                       "key": "_ANIMAL_ENTITY_TYPE",
                       "ratio": 0.0,
                       "compareType": "NoneOrEqual"
@@ -2545,14 +2545,14 @@
                       "targetKey": "_ABILITY_Diving_Aim_Target_Cache"
                     },
                     {
-                      "$type": "EJHKLOGOCEL",
+                      "$type": "CopyGlobalValue",
                       "srcTarget": "Self",
                       "dstTarget": "OriginOwner",
                       "srcKey": "_ABILITY_Diving_Aim_Target_Cache_0",
                       "dstKey": "_ABILITY_Diving_Aim_Target_Cache_Avatar_0"
                     },
                     {
-                      "$type": "EJHKLOGOCEL",
+                      "$type": "CopyGlobalValue",
                       "srcTarget": "Self",
                       "dstTarget": "OriginOwner",
                       "srcKey": "_ABILITY_Diving_Aim_Target_Cache_1",
@@ -2569,7 +2569,7 @@
                   ]
                 },
                 {
-                  "$type": "ENLCJEPPPCI"
+                  "$type": "KillSelf"
                 }
               ],
               "aimType": "OneInScope",
@@ -2587,11 +2587,11 @@
         },
         "Lock_Eff": {
           "modifierName": "",
-          "OLGDMDBPCIP": 10.0,
-          "DMCLENCALMP": 100.0,
+          "duration": 10.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
-              "$type": "LKDKPDGBEBF",
+              "$type": "AttachEffect",
               "predicates": [
                 {
                   "$type": "HBCOIHCEICM",
@@ -2606,7 +2606,7 @@
               "DAFPKJDDJHF": -1.0
             },
             {
-              "$type": "LKDKPDGBEBF",
+              "$type": "AttachEffect",
               "predicates": [
                 {
                   "$type": "HBCOIHCEICM",
@@ -2625,11 +2625,11 @@
         },
         "KillSelfDelay": {
           "modifierName": "",
-          "OLGDMDBPCIP": 0.30000001192092896,
-          "DMCLENCALMP": 100.0,
+          "duration": 0.30000001192092896,
+          "elementDurability": 100.0,
           "onRemoved": [
             {
-              "$type": "ENLCJEPPPCI"
+              "$type": "KillSelf"
             }
           ]
         }

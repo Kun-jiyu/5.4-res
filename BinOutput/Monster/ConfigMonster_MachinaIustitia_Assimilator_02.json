@@ -2,7 +2,7 @@
   "MDJNFHAJPAD": {
     "FAIKDMCHPEL": {
       "$type": "DPGKNHENGLM",
-      "DDDEJPIFECG": "EffectMesh"
+      "mesh": "EffectMesh"
     },
     "FINMNFLLAMB": 150.0,
     "NEBDNCNFDJC": 1.7999999523162842,
@@ -13,8 +13,8 @@
     "FNLMEPDMMMD": 1.2000000476837158,
     "NDKGIFOAHGG": true,
     "GJDONABEMOA": true,
-    "BKPPECPBMBF": true,
-    "LOGFKHMLOOL": true
+    "reconnectSupport": true,
+    "recoverByInitPose": true
   },
   "PJEANIPCFFN": {
     "CKAIGCFDCMG": "Eff_Monster_Common_Born",

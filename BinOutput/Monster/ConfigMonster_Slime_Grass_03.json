@@ -2,7 +2,7 @@
   "common": {
     "effectAttachShape": {
       "$type": "DPGKNHENGLM",
-      "DDDEJPIFECG": "EffectMesh"
+      "mesh": "EffectMesh"
     },
     "mass": 1000.0,
     "height": 1.2000000476837158,
@@ -13,7 +13,7 @@
     "checkInSurface": true,
     "scale": 4.0,
     "useGrassDisplacement": true,
-    "BKPPECPBMBF": true
+    "reconnectSupport": true
   },
   "combat": {
     "property": {

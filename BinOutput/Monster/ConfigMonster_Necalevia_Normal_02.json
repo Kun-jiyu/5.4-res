@@ -2,7 +2,7 @@
   "common": {
     "effectAttachShape": {
       "$type": "DPGKNHENGLM",
-      "DDDEJPIFECG": "EffectMesh1"
+      "mesh": "EffectMesh1"
     },
     "mass": 10000.0,
     "height": 2.0,
@@ -12,8 +12,8 @@
     "checkInSurface": true,
     "shouldPauseAnimatorBeforeReady": true,
     "useGrassDisplacement": true,
-    "BKPPECPBMBF": true,
-    "LOGFKHMLOOL": true
+    "reconnectSupport": true,
+    "recoverByInitPose": true
   },
   "specialPoint": {
     "elementAbsorb": "RootNode",

@@ -2,21 +2,21 @@
   "common": {
     "effectAttachShape": {
       "$type": "DPGKNHENGLM",
-      "DDDEJPIFECG": "EffectMesh"
+      "mesh": "EffectMesh"
     },
     "mass": 9999999.0,
     "height": 0.4000000059604645,
     "canTriggerElementReactionText": false,
-    "BKPPECPBMBF": true,
-    "LOGFKHMLOOL": true
+    "reconnectSupport": true,
+    "recoverByInitPose": true
   },
   "headControl": {
     "$type": "NJIKCGBDNDF",
     "useHeadControl": true,
-    "IKIJCPNMBHI": 80.0,
-    "FMKKBCJKMPH": 80.0,
+    "maxYawDegree": 80.0,
+    "maxPitchDegree": 80.0,
     "speed": 5.0,
-    "FDPCOFKGCHG": ["Standby", "OnWaterBackstroke", "OnWaterRelax", "TurnPose"]
+    "animStates": ["Standby", "OnWaterBackstroke", "OnWaterRelax", "TurnPose"]
   },
   "model": {
     "bornEffect": "",

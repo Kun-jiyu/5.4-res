@@ -2,7 +2,7 @@
   "common": {
     "effectAttachShape": {
       "$type": "DPGKNHENGLM",
-      "DDDEJPIFECG": "Body"
+      "mesh": "Body"
     },
     "mass": 100.0,
     "height": 3.0,

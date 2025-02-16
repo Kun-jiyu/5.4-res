@@ -2,7 +2,7 @@
   "MDJNFHAJPAD": {
     "FAIKDMCHPEL": {
       "$type": "DPGKNHENGLM",
-      "DDDEJPIFECG": "EffectMesh"
+      "mesh": "EffectMesh"
     },
     "FINMNFLLAMB": 10000.0,
     "NEBDNCNFDJC": 1.5,
@@ -12,16 +12,16 @@
     "FNLMEPDMMMD": 1.6699999570846558,
     "GJDONABEMOA": true,
     "GJKLEPPOKDJ": true,
-    "BKPPECPBMBF": true,
-    "LOGFKHMLOOL": true
+    "reconnectSupport": true,
+    "recoverByInitPose": true
   },
   "LBGLCHLIKJP": {
     "$type": "NJIKCGBDNDF",
     "HONCKGMDJEK": true,
-    "IKIJCPNMBHI": 60.0,
-    "FMKKBCJKMPH": 30.0,
+    "maxYawDegree": 60.0,
+    "maxPitchDegree": 30.0,
     "OLKEDEPPDOH": 2.0,
-    "FDPCOFKGCHG": ["NormalMove", "Run", "NormalIdle"]
+    "animStates": ["NormalMove", "Run", "NormalIdle"]
   },
   "PMJIKOJNNBO": {
     "MPDPMNBOOEB": "RootNode",

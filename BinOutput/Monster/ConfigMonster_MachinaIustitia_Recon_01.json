@@ -2,15 +2,15 @@
   "common": {
     "effectAttachShape": {
       "$type": "DPGKNHENGLM",
-      "DDDEJPIFECG": "EffectMesh"
+      "mesh": "EffectMesh"
     },
     "mass": 80.0,
     "height": 1.2999999523162842,
     "modelHeight": 1.2999999523162842,
     "viewSize": 1.2000000476837158,
     "shouldPauseAnimatorBeforeReady": true,
-    "BKPPECPBMBF": true,
-    "LOGFKHMLOOL": true
+    "reconnectSupport": true,
+    "recoverByInitPose": true
   },
   "model": {
     "bornEffect": "Eff_Monster_Common_Born",

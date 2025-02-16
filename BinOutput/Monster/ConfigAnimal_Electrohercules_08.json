@@ -2,15 +2,15 @@
   "MDJNFHAJPAD": {
     "FAIKDMCHPEL": {
       "$type": "DPGKNHENGLM",
-      "DDDEJPIFECG": "EffectMesh"
+      "mesh": "EffectMesh"
     },
     "FINMNFLLAMB": 9999999.0,
     "NEBDNCNFDJC": 1.0,
     "DIEPJBNIPBG": true,
     "CKECEGGMJOP": false,
     "GJDONABEMOA": true,
-    "BKPPECPBMBF": true,
-    "LOGFKHMLOOL": true
+    "reconnectSupport": true,
+    "recoverByInitPose": true
   },
   "PJEANIPCFFN": {
     "CKAIGCFDCMG": "",

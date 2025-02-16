@@ -2,7 +2,7 @@
   "common": {
     "effectAttachShape": {
       "$type": "DPGKNHENGLM",
-      "DDDEJPIFECG": "EffectMesh"
+      "mesh": "EffectMesh"
     },
     "mass": 10000.0,
     "height": 1.5,
@@ -16,9 +16,9 @@
   "headControl": {
     "$type": "NJIKCGBDNDF",
     "useHeadControl": true,
-    "IKIJCPNMBHI": 45.0,
-    "FMKKBCJKMPH": 10.0,
-    "FDPCOFKGCHG": [
+    "maxYawDegree": 45.0,
+    "maxPitchDegree": 10.0,
+    "animStates": [
       "NormalIdle/Standby",
       "NormalIdle/Born",
       "WalkForward",

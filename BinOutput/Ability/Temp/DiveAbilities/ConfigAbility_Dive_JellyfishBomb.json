@@ -1,12 +1,12 @@
 [
   {
     "Default": {
-      "$type": "FGKJODDHNFD",
+      "$type": "ConfigAbility",
       "abilityName": "Ability_Avatar_Dive_JellyfishBomb",
       "modifiers": {
         "Avatar_Dive_JellyfishBomb_AddSkillInfo": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
               "$type": "JFDLPENKFGC",
@@ -36,7 +36,7 @@
         },
         "Avatar_Dive_JellyfishBomb_Hold_Handler": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "modifierMixins": [
             {
               "$type": "JIDELJNLJJM",
@@ -66,18 +66,18 @@
                   "modifierName": "Focus_Father"
                 },
                 {
-                  "$type": "JKHLPMAGLLC",
+                  "$type": "SetAnimatorTrigger",
                   "triggerID": "StartDiveCastTrigger"
                 },
                 {
-                  "$type": "JKHLPMAGLLC",
+                  "$type": "SetAnimatorTrigger",
                   "triggerID": "StartDiveCastTrigger2"
                 },
                 {
                   "$type": "PAEEFDCCFEK",
                   "predicates": [
                     {
-                      "$type": "HMFPJIKNKAG",
+                      "$type": "ByTargetGlobalValue",
                       "target": "Self",
                       "key": "_ABILITY_Diving_Skill_In_Focus_Skill_Mark",
                       "ratio": 0.0,
@@ -89,20 +89,20 @@
               ],
               "onReleaseSecondCharged": [
                 {
-                  "$type": "JKHLPMAGLLC",
+                  "$type": "SetAnimatorTrigger",
                   "triggerID": "EndDiveCastTrigger"
                 }
               ],
               "onCancelCharged": [
                 {
-                  "$type": "JKHLPMAGLLC",
+                  "$type": "SetAnimatorTrigger",
                   "triggerID": "EndDiveCastTrigger"
                 },
                 {
                   "$type": "PAEEFDCCFEK",
                   "predicates": [
                     {
-                      "$type": "HMFPJIKNKAG",
+                      "$type": "ByTargetGlobalValue",
                       "target": "Self",
                       "key": "_ABILITY_Diving_Skill_In_Focus_Skill_Mark",
                       "ratio": 2.0
@@ -133,8 +133,8 @@
         "Clear_Focus_Father": {
           "stacking": "Multiple",
           "modifierName": "",
-          "OLGDMDBPCIP": 0.20000000298023224,
-          "DMCLENCALMP": 100.0,
+          "duration": 0.20000000298023224,
+          "elementDurability": 100.0,
           "onAdded": [
             {
               "$type": "KKDKALJICPJ",
@@ -145,7 +145,7 @@
         },
         "Focus_Father": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "modifierMixins": [
             {
               "$type": "KCEIHEHGBBE",
@@ -198,18 +198,18 @@
         },
         "Focus_Remove_Delay_Trigger": {
           "modifierName": "",
-          "OLGDMDBPCIP": 10.0,
-          "DMCLENCALMP": 100.0,
+          "duration": 10.0,
+          "elementDurability": 100.0,
           "onRemoved": [
             {
-              "$type": "JKHLPMAGLLC",
+              "$type": "SetAnimatorTrigger",
               "triggerID": "EndDiveCastTrigger"
             },
             {
               "$type": "PAEEFDCCFEK",
               "predicates": [
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "target": "Self",
                   "key": "_ABILITY_Diving_Skill_In_Focus_Skill_Mark",
                   "ratio": 2.0
@@ -222,8 +222,8 @@
         "Focus_Remove_Delay": {
           "stacking": "Unique",
           "modifierName": "",
-          "OLGDMDBPCIP": 0.5,
-          "DMCLENCALMP": 100.0,
+          "duration": 0.5,
+          "elementDurability": 100.0,
           "thinkInterval": 0.12999999523162842,
           "onAdded": [
             {
@@ -258,7 +258,7 @@
         },
         "Focus": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "modifierMixins": [
             {
               "$type": "NDDAMIHJJLG",
@@ -306,7 +306,7 @@
               "modifierName": "Gadget_Loop"
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -346,7 +346,7 @@
               ]
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -385,7 +385,7 @@
               ]
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -424,7 +424,7 @@
               ]
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -463,7 +463,7 @@
               ]
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -545,7 +545,7 @@
         },
         "Gadget_Loop": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
               "$type": "HCBCBBHLDKG",
@@ -569,7 +569,7 @@
         },
         "Aim_Camera_Eff": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "modifierMixins": [
             {
               "$type": "JEPPPIENMGK",
@@ -599,8 +599,8 @@
         "VFX_Trigger": {
           "stacking": "Multiple",
           "modifierName": "",
-          "OLGDMDBPCIP": 0.5,
-          "DMCLENCALMP": 100.0,
+          "duration": 0.5,
+          "elementDurability": 100.0,
           "onAdded": [
             {
               "$type": "COMJPHINKMB",
@@ -662,10 +662,10 @@
         },
         "VFX": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -682,7 +682,7 @@
               ]
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -699,7 +699,7 @@
               ]
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -716,7 +716,7 @@
               ]
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -733,7 +733,7 @@
               ]
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "targetPredicates": [
                 {
                   "$type": "PDDIIKBOMEK",
@@ -753,10 +753,10 @@
         },
         "VFX_L": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
-              "$type": "LKDKPDGBEBF",
+              "$type": "AttachEffect",
               "rotationDampTime": "Eff_Avatar_Diving_Gadget_Loop",
               "GNJCLBNGGBN": 1.0,
               "DAFPKJDDJHF": -1.0
@@ -765,10 +765,10 @@
         },
         "VFX_R": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
-              "$type": "LKDKPDGBEBF",
+              "$type": "AttachEffect",
               "rotationDampTime": "Eff_Avatar_Diving_Gadget_Loop_2",
               "GNJCLBNGGBN": 1.0,
               "DAFPKJDDJHF": -1.0
@@ -778,8 +778,8 @@
         "JellyFish_Short": {
           "stacking": "Multiple",
           "modifierName": "",
-          "OLGDMDBPCIP": 0.5,
-          "DMCLENCALMP": 100.0,
+          "duration": 0.5,
+          "elementDurability": 100.0,
           "onAdded": [
             {
               "$type": "HCBCBBHLDKG",
@@ -832,8 +832,8 @@
         "JellyFish_Long": {
           "stacking": "Unique",
           "modifierName": "",
-          "OLGDMDBPCIP": 0.5,
-          "DMCLENCALMP": 100.0,
+          "duration": 0.5,
+          "elementDurability": 100.0,
           "onAdded": [
             {
               "$type": "CEJLLLGLEIE",
@@ -899,7 +899,7 @@
               }
             },
             {
-              "$type": "JKHLPMAGLLC",
+              "$type": "SetAnimatorTrigger",
               "shieldHP": true,
               "triggerID": "EndDiveCastTrigger"
             }
@@ -908,8 +908,8 @@
         "UNIQUE_Dive_JellyfishBomb_SwitchToTrigger": {
           "modifierName": "",
           "reApplyModifierOnStateChange": true,
-          "OLGDMDBPCIP": 60.0,
-          "DMCLENCALMP": 100.0,
+          "duration": 60.0,
+          "elementDurability": 100.0,
           "modifierMixins": [
             {
               "$type": "ONAMGCLCIEL",
@@ -929,12 +929,12 @@
           ],
           "onRemoved": [
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "target": "CurLocalAvatar",
               "shieldHP": true,
               "targetPredicates": [
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "key": "_ABILITY_Diving_SkillCDReduction",
                   "ratio": 1.0
                 }
@@ -1013,7 +1013,7 @@
   },
   {
     "Default": {
-      "$type": "FGKJODDHNFD",
+      "$type": "ConfigAbility",
       "abilityName": "Ability_Avatar_Dive_JellyfishBomb_Trigger",
       "onAbilityStart": [
         {
@@ -1033,7 +1033,7 @@
   },
   {
     "Default": {
-      "$type": "FGKJODDHNFD",
+      "$type": "ConfigAbility",
       "abilityName": "Ability_Absorb_JellyfishBomb_Short",
       "abilitySpecials": {
         "DamageSystemValue": 0.0,
@@ -1042,7 +1042,7 @@
       "modifiers": {
         "JellyfishBomb": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "thinkInterval": 0.5,
           "modifierMixins": [
             {
@@ -1059,7 +1059,7 @@
           ],
           "onAdded": [
             {
-              "$type": "LKDKPDGBEBF",
+              "$type": "AttachEffect",
               "rotationDampTime": "Eff_Avatar_Diving_Jellyfish_Boom_Short",
               "GNJCLBNGGBN": 1.0,
               "DAFPKJDDJHF": -1.0
@@ -1067,7 +1067,7 @@
           ],
           "onThinkInterval": [
             {
-              "$type": "FMPCDIIEDCL",
+              "$type": "SetGlobalPos",
               "key": "_ABILITY_JellyFishBomb_Owner_Pos",
               "born": {
                 "$type": "OIFDCKPOJNK",
@@ -1139,7 +1139,7 @@
                   "attackProperty": {
                     "actorGrassSubHurtDelta": 0.0,
                     "actorIceSubHurtDelta": 0.0,
-                    "DMCLENCALMP": 0.0,
+                    "elementDurability": 0.0,
                     "ignoreAttackerProperty": true,
                     "strikeType": "Blunt",
                     "enBreak": 90.0,
@@ -1170,10 +1170,10 @@
         },
         "JellyfishBomb_Gadget_Checker": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "onHittingOther": [
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "target": "Other",
               "predicates": [
                 {
@@ -1185,7 +1185,7 @@
               ],
               "targetPredicates": [
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "key": "_IS_InUnderseaBacDoor",
                   "ratio": 1.0
                 },
@@ -1210,7 +1210,7 @@
               ]
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "target": "Other",
               "predicates": [
                 {
@@ -1222,7 +1222,7 @@
               ],
               "targetPredicates": [
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "key": "_IS_InUnderseaBacRes",
                   "ratio": 1.0
                 },
@@ -1250,8 +1250,8 @@
         },
         "ExplodeDelay": {
           "modifierName": "",
-          "OLGDMDBPCIP": 0.20000000298023224,
-          "DMCLENCALMP": 100.0,
+          "duration": 0.20000000298023224,
+          "elementDurability": 100.0,
           "onAdded": [
             {
               "$type": "GJBCDJCPDKC",
@@ -1264,15 +1264,15 @@
           ],
           "onRemoved": [
             {
-              "$type": "ENLCJEPPPCI"
+              "$type": "KillSelf"
             }
           ]
         },
         "JellyFish_Bomb_Special_Tag_On_Gadget": {
           "stacking": "Multiple",
           "modifierName": "",
-          "OLGDMDBPCIP": 1.0,
-          "DMCLENCALMP": 100.0,
+          "duration": 1.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
               "$type": "MKPGIOJJGDE",
@@ -1284,7 +1284,7 @@
                   "actorGrassSubHurtDelta": 0.0,
                   "actorIceSubHurtDelta": 0.0,
                   "elementType": "Water",
-                  "DMCLENCALMP": 25.0,
+                  "elementDurability": 25.0,
                   "strikeType": "Slash",
                   "enBreak": 150.0,
                   "attackType": "Melee",
@@ -1330,7 +1330,7 @@
   },
   {
     "Default": {
-      "$type": "FGKJODDHNFD",
+      "$type": "ConfigAbility",
       "abilityName": "Ability_Absorb_JellyfishBomb_Hold",
       "abilitySpecials": {
         "DamageSystemValue": 0.0,
@@ -1339,7 +1339,7 @@
       "modifiers": {
         "JellyfishBomb": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "thinkInterval": 0.5,
           "modifierMixins": [
             {
@@ -1356,7 +1356,7 @@
           ],
           "onAdded": [
             {
-              "$type": "LKDKPDGBEBF",
+              "$type": "AttachEffect",
               "rotationDampTime": "Eff_Avatar_Diving_Jellyfish_Boom_Hold",
               "born": {
                 "$type": "JJNBIFKAFHI",
@@ -1373,7 +1373,7 @@
           ],
           "onThinkInterval": [
             {
-              "$type": "FMPCDIIEDCL",
+              "$type": "SetGlobalPos",
               "key": "_ABILITY_JellyFishBomb_Owner_Pos",
               "born": {
                 "$type": "OIFDCKPOJNK",
@@ -1458,7 +1458,7 @@
                   "attackProperty": {
                     "actorGrassSubHurtDelta": 0.0,
                     "actorIceSubHurtDelta": 0.0,
-                    "DMCLENCALMP": 0.0,
+                    "elementDurability": 0.0,
                     "ignoreAttackerProperty": true,
                     "strikeType": "Blunt",
                     "enBreak": 90.0,
@@ -1489,8 +1489,8 @@
         },
         "ExplodeDelay": {
           "modifierName": "",
-          "OLGDMDBPCIP": 0.20000000298023224,
-          "DMCLENCALMP": 100.0,
+          "duration": 0.20000000298023224,
+          "elementDurability": 100.0,
           "onAdded": [
             {
               "$type": "GJBCDJCPDKC",
@@ -1503,20 +1503,20 @@
           ],
           "onRemoved": [
             {
-              "$type": "ENLCJEPPPCI"
+              "$type": "KillSelf"
             }
           ]
         },
         "JellyfishBomb_Entity_Checker": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0
+          "elementDurability": 100.0
         },
         "JellyfishBomb_Gadget_Checker": {
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "onHittingOther": [
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "target": "Other",
               "predicates": [
                 {
@@ -1528,7 +1528,7 @@
               ],
               "targetPredicates": [
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "key": "_IS_InUnderseaBacDoor",
                   "ratio": 1.0
                 },
@@ -1553,7 +1553,7 @@
               ]
             },
             {
-              "$type": "EPKHDMNNGIM",
+              "$type": "Predicated",
               "target": "Other",
               "predicates": [
                 {
@@ -1565,7 +1565,7 @@
               ],
               "targetPredicates": [
                 {
-                  "$type": "HMFPJIKNKAG",
+                  "$type": "ByTargetGlobalValue",
                   "key": "_IS_InUnderseaBacRes",
                   "ratio": 1.0
                 },
@@ -1594,8 +1594,8 @@
         "JellyFish_Bomb_Special_Tag_On_Gadget": {
           "stacking": "Multiple",
           "modifierName": "",
-          "OLGDMDBPCIP": 1.0,
-          "DMCLENCALMP": 100.0,
+          "duration": 1.0,
+          "elementDurability": 100.0,
           "onAdded": [
             {
               "$type": "MKPGIOJJGDE",
@@ -1607,7 +1607,7 @@
                   "actorGrassSubHurtDelta": 0.0,
                   "actorIceSubHurtDelta": 0.0,
                   "elementType": "Water",
-                  "DMCLENCALMP": 25.0,
+                  "elementDurability": 25.0,
                   "strikeType": "Slash",
                   "enBreak": 150.0,
                   "attackType": "Melee",
@@ -1628,7 +1628,7 @@
         "Hit_Scene_Stop": {
           "stacking": "Unique",
           "modifierName": "",
-          "DMCLENCALMP": 100.0,
+          "elementDurability": 100.0,
           "properties": {
             "Actor_BulletMoveSpeedRatio": -1.0
           },

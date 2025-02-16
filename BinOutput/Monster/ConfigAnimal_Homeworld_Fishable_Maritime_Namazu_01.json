@@ -2,7 +2,7 @@
   "MDJNFHAJPAD": {
     "FAIKDMCHPEL": {
       "$type": "DPGKNHENGLM",
-      "DDDEJPIFECG": "EffectMesh"
+      "mesh": "EffectMesh"
     },
     "FINMNFLLAMB": 20.0,
     "NEBDNCNFDJC": 0.800000011920929,
@@ -11,7 +11,7 @@
     "CKECEGGMJOP": false,
     "JBIPDEEPIMN": true,
     "GJKLEPPOKDJ": true,
-    "LOGFKHMLOOL": true
+    "recoverByInitPose": true
   },
   "PJEANIPCFFN": {
     "CKAIGCFDCMG": "",

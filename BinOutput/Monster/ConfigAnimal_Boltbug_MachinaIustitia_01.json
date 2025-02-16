@@ -5,8 +5,8 @@
     "MBMBBGOGNHF": true,
     "DIEPJBNIPBG": true,
     "CKECEGGMJOP": false,
-    "BKPPECPBMBF": true,
-    "LOGFKHMLOOL": true
+    "reconnectSupport": true,
+    "recoverByInitPose": true
   },
   "PJEANIPCFFN": {
     "CKAIGCFDCMG": "",
