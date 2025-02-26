@@ -369,7 +369,7 @@
                 "setPoseInt": [
                   {
                     "intID": "RandomPose",
-                    "value": 4
+                    "ratio": 4
                   }
                 ],
                 "setAnimatorTrigger": [

@@ -89,7 +89,7 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "GadgetState",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
@@ -191,7 +191,7 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "GadgetState",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
@@ -560,7 +560,7 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "GadgetState",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
@@ -689,7 +689,7 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "GadgetState",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
@@ -929,7 +929,7 @@
           "gadgetState": "GearStart",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_Gear_Dungeon_Electric_Source"
         },
         {
@@ -937,7 +937,7 @@
           "gadgetState": "GearStop",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 202,
+          "ratio": 202,
           "effectPattern": "Eff_SceneObj_Gear_Dungeon_Electric_Source"
         }
       ]
@@ -1274,19 +1274,19 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "GadgetState",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearAction1",
           "intID": "GadgetState",
-          "value": 203
+          "ratio": 203
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStop",
           "intID": "GadgetState",
-          "value": 202
+          "ratio": 202
         }
       ]
     },
@@ -1422,7 +1422,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy",
+        "target": "Enemy",
         "bornWithTriggerEnabled": false
       },
       "triggerActions": [
@@ -1496,7 +1496,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Alliance"
+        "target": "Alliance"
       },
       "triggerActions": [
         {
@@ -1989,7 +1989,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -2491,7 +2491,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -2692,7 +2692,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.4000000059604645,
-        "targetType": "All",
+        "target": "All",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -2771,7 +2771,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.4000000059604645,
-        "targetType": "All",
+        "target": "All",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -3507,7 +3507,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.4000000059604645,
-        "targetType": "All",
+        "target": "All",
         "ignoreScene": true
       },
       "triggerActions": [

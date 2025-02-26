@@ -154,7 +154,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -240,7 +240,7 @@
           "gadgetState": "GearStart",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": ""
         }
       ]

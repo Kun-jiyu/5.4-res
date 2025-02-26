@@ -63,7 +63,7 @@
       "collision": {
         "triggerType": "TriggerNoRepeat",
         "triggerCD": 10.0,
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       },
       "triggerLifeOverActions": [

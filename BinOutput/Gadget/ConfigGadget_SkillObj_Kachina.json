@@ -144,7 +144,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -203,7 +203,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "SelfCamp",
+        "target": "SelfCamp",
         "ignoreScene": true,
         "ignoreWater": true
       }
@@ -272,7 +272,7 @@
         },
         "triggerType": "TriggerAlways",
         "triggerCD": 2.0,
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true,
         "ignoreWater": true
       },
@@ -389,7 +389,7 @@
           "type": "Always"
         },
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       },
       "triggerActions": [

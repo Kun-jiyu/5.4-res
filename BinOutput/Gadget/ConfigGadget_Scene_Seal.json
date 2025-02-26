@@ -337,7 +337,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.5,
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       },
       "maxAutoKillDist": 160.0

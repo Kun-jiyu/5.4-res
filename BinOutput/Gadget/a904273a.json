@@ -273,7 +273,7 @@
           "type": "Always",
           "radius": 0.6000000238418579
         },
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -546,7 +546,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.20000000298023224,
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -759,7 +759,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {

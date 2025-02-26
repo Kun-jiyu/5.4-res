@@ -61,7 +61,7 @@
           "detectCD": 0.10000000149011612
         },
         "triggerType": "TriggerAlways",
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {

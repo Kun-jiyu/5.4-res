@@ -72,13 +72,13 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "State",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStop",
           "intID": "State",
-          "value": 201
+          "ratio": 201
         }
       ]
     }
@@ -106,13 +106,13 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "State",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStop",
           "intID": "State",
-          "value": 201
+          "ratio": 201
         }
       ]
     }
@@ -140,13 +140,13 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "State",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStop",
           "intID": "State",
-          "value": 201
+          "ratio": 201
         }
       ]
     }
@@ -328,7 +328,7 @@
           "gadgetState": "GearStart",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_DungeonLightBridge_01"
         }
       ]
@@ -587,13 +587,13 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "State",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStop",
           "intID": "State",
-          "value": 201
+          "ratio": 201
         }
       ]
     }
@@ -621,13 +621,13 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "State",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStop",
           "intID": "State",
-          "value": 201
+          "ratio": 201
         }
       ]
     }
@@ -655,13 +655,13 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "State",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStop",
           "intID": "State",
-          "value": 201
+          "ratio": 201
         }
       ]
     }
@@ -718,7 +718,7 @@
           "gadgetState": "GearStart",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_LyFloatingBridge"
         }
       ]

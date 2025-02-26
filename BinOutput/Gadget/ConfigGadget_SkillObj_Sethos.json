@@ -101,7 +101,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -218,7 +218,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -335,7 +335,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -452,7 +452,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -519,7 +519,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -582,7 +582,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -655,7 +655,7 @@
           "type": "Always"
         },
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true,
         "LDJNHEIPFDC": true
       },
@@ -739,7 +739,7 @@
           "type": "Always"
         },
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true,
         "LDJNHEIPFDC": true
       },
@@ -823,7 +823,7 @@
           "type": "Always"
         },
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true,
         "LDJNHEIPFDC": true
       },
@@ -907,7 +907,7 @@
           "type": "Always"
         },
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true,
         "LDJNHEIPFDC": true
       },
@@ -991,7 +991,7 @@
           "type": "Always"
         },
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true,
         "LDJNHEIPFDC": true
       },

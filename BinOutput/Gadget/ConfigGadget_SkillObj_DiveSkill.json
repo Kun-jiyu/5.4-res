@@ -159,7 +159,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -234,7 +234,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -311,7 +311,7 @@
           "type": "Always"
         },
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true,
         "ignoreWater": true
       },
@@ -380,7 +380,7 @@
           "type": "Always"
         },
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true,
         "ignoreWater": true
       },
@@ -550,7 +550,7 @@
           "detectCD": 0.10000000149011612
         },
         "triggerType": "TriggerAlways",
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {

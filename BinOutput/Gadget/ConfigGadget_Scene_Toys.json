@@ -1541,7 +1541,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All",
+        "target": "All",
         "ignoreScene": true
       },
       "triggerActions": [

@@ -52,7 +52,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -133,7 +133,7 @@
           "type": "Always"
         },
         "triggerCD": 0.10000000149011612,
-        "targetType": "AllExceptSelf",
+        "target": "AllExceptSelf",
         "bornWithTriggerEnabled": false
       },
       "triggerActions": [
@@ -217,7 +217,7 @@
           "type": "Always"
         },
         "triggerCD": 0.10000000149011612,
-        "targetType": "AllExceptSelf",
+        "target": "AllExceptSelf",
         "bornWithTriggerEnabled": false
       },
       "triggerActions": [
@@ -294,7 +294,7 @@
           "type": "Always"
         },
         "triggerCD": 0.10000000149011612,
-        "targetType": "AllExceptSelf",
+        "target": "AllExceptSelf",
         "bornWithTriggerEnabled": false
       },
       "triggerActions": [
@@ -381,7 +381,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -478,7 +478,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy",
+        "target": "Enemy",
         "bornWithTriggerEnabled": false
       },
       "triggerActions": [
@@ -670,7 +670,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -783,7 +783,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -904,7 +904,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -974,7 +974,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -1036,7 +1036,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -1103,7 +1103,7 @@
         },
         "triggerType": "TriggerAlways",
         "triggerCD": 0.4000000059604645,
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true,
         "ignoreWater": true,
         "LDJNHEIPFDC": true

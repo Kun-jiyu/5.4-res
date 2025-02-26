@@ -299,7 +299,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "triggerActions": [
         {
@@ -1063,7 +1063,7 @@
           "gadgetState": "GearStart",
           "parameter": "State",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_Challengestarter_02"
         },
         {
@@ -1071,7 +1071,7 @@
           "gadgetState": "GearStop",
           "parameter": "State",
           "type": "Int",
-          "value": 202,
+          "ratio": 202,
           "effectPattern": "Eff_SceneObj_Challengestarter_02"
         },
         {

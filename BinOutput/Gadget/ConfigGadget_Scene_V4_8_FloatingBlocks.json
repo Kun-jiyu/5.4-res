@@ -178,7 +178,7 @@
           "doOnUnEabled": "Default",
           "forwardByTransName": "RootNode",
           "limitHorizontal": 0.0,
-          "targetType": "ActionSetTarget",
+          "target": "ActionSetTarget",
           "LOKAEMILAOG": true
         }
       ]
@@ -472,7 +472,7 @@
           "forwardByTransName": "BodyControl",
           "limitHorizontal": 360.0,
           "limitVertical": 0.0,
-          "targetType": "ActionSetTarget",
+          "target": "ActionSetTarget",
           "LOKAEMILAOG": true
         }
       ]
@@ -1009,7 +1009,7 @@
           "type": "Always"
         },
         "triggerType": "TriggerNoRepeat",
-        "targetType": "AllExceptSelf",
+        "target": "AllExceptSelf",
         "ignoreWater": true
       },
       "triggerActions": [

@@ -105,7 +105,7 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "GadgetState",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
@@ -162,7 +162,7 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "GadgetState",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",

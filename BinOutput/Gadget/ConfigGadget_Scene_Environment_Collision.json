@@ -44,7 +44,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "collisionActions": [
         {
@@ -97,7 +97,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "collisionActions": [
         {
@@ -150,7 +150,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "collisionActions": [
         {
@@ -203,7 +203,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "collisionActions": [
         {
@@ -256,7 +256,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "collisionActions": [
         {
@@ -309,7 +309,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "collisionActions": [
         {

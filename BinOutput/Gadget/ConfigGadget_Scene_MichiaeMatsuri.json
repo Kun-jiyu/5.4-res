@@ -54,7 +54,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Alliance"
+        "target": "Alliance"
       },
       "triggerActions": [
         {
@@ -378,7 +378,7 @@
           "gadgetState": "GearStart",
           "parameter": "State",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_Challengestarter_01"
         },
         {
@@ -386,7 +386,7 @@
           "gadgetState": "GearStop",
           "parameter": "State",
           "type": "Int",
-          "value": 202,
+          "ratio": 202,
           "effectPattern": "Eff_SceneObj_Challengestarter_01"
         },
         {
@@ -461,7 +461,7 @@
           "gadgetState": "GearStart",
           "parameter": "State",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_Challengestarter_01"
         },
         {
@@ -469,7 +469,7 @@
           "gadgetState": "GearStop",
           "parameter": "State",
           "type": "Int",
-          "value": 202,
+          "ratio": 202,
           "effectPattern": "Eff_SceneObj_Challengestarter_01"
         },
         {
@@ -533,7 +533,7 @@
           "gadgetState": "GearStart",
           "parameter": "State",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_Challengestarter_01"
         },
         {
@@ -541,7 +541,7 @@
           "gadgetState": "GearStop",
           "parameter": "State",
           "type": "Int",
-          "value": 202,
+          "ratio": 202,
           "effectPattern": "Eff_SceneObj_Challengestarter_01"
         },
         {
@@ -605,7 +605,7 @@
           "gadgetState": "GearStart",
           "parameter": "State",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_Challengestarter_01"
         },
         {
@@ -613,7 +613,7 @@
           "gadgetState": "GearStop",
           "parameter": "State",
           "type": "Int",
-          "value": 202,
+          "ratio": 202,
           "effectPattern": "Eff_SceneObj_Challengestarter_01"
         },
         {
@@ -719,7 +719,7 @@
         {
           "$type": "LLHMOKHKBBF",
           "intID": "ChestState",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "KFLIFMMFLHA",
@@ -828,7 +828,7 @@
         {
           "$type": "LLHMOKHKBBF",
           "intID": "ChestState",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "KFLIFMMFLHA",
@@ -937,7 +937,7 @@
         {
           "$type": "LLHMOKHKBBF",
           "intID": "ChestState",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "KFLIFMMFLHA",
@@ -1046,7 +1046,7 @@
         {
           "$type": "LLHMOKHKBBF",
           "intID": "ChestState",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "KFLIFMMFLHA",
@@ -1585,7 +1585,7 @@
         {
           "$type": "LLHMOKHKBBF",
           "intID": "Glow",
-          "value": 100
+          "ratio": 100
         }
       ]
     }
@@ -1802,7 +1802,7 @@
             "isStart": true
           },
           "intID": "IsMoving",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "LLHMOKHKBBF",
@@ -1905,7 +1905,7 @@
             "isStart": true
           },
           "intID": "GadgetState",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",

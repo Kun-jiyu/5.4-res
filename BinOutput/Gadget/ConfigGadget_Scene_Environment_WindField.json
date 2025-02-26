@@ -73,7 +73,7 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "Action01",
           "intID": "DieFlag",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "LKGGELBBFJM",
@@ -516,7 +516,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -565,7 +565,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -614,7 +614,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -673,7 +673,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -722,7 +722,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -839,7 +839,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -1059,7 +1059,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.5,
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       }
     }

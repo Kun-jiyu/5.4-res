@@ -1073,7 +1073,7 @@
               "JJPAGFPDECF": "__DefaultSync__",
               "predicate": {
                 "$type": "OLPIHMOEBIC",
-                "value": true
+                "ratio": true
               },
               "action": {
                 "$type": "PLIJPHAOOKK",
@@ -1092,7 +1092,7 @@
               "JJPAGFPDECF": "__DefaultSync__",
               "predicate": {
                 "$type": "OLPIHMOEBIC",
-                "value": true
+                "ratio": true
               },
               "action": {
                 "$type": "PLIJPHAOOKK",
@@ -1206,7 +1206,7 @@
           "sortedHitResult": true
         },
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -1257,7 +1257,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true
       },
       "triggerActions": [

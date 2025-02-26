@@ -517,7 +517,7 @@
     "gadget": {
       "$type": "ConfigMultiBulletPattern",
       "collision": {
-        "targetType": "All"
+        "target": "All"
       },
       "triggerActions": [
         {

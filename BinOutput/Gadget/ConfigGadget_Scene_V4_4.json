@@ -1616,7 +1616,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -2251,7 +2251,7 @@
           "forwardByTransName": "RootNode",
           "limitHorizontal": 0.0,
           "limitVertical": 0.0,
-          "targetType": "ActionSetTarget"
+          "target": "ActionSetTarget"
         }
       ]
     }

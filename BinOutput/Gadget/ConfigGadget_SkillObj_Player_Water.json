@@ -52,7 +52,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -127,7 +127,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -272,7 +272,7 @@
         },
         "triggerType": "TriggerAlways",
         "triggerCD": 0.5,
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true,
         "ignoreWater": true
       },

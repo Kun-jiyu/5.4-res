@@ -179,7 +179,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -2139,7 +2139,7 @@
           "type": "Always"
         },
         "triggerType": "TriggerAlways",
-        "targetType": "AllExceptSelf",
+        "target": "AllExceptSelf",
         "ignoreScene": true
       },
       "triggerActions": [

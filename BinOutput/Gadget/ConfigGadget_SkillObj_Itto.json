@@ -107,7 +107,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -239,7 +239,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "SelfCamp",
+        "target": "SelfCamp",
         "ignoreScene": true,
         "ignoreWater": true
       }

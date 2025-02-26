@@ -652,7 +652,7 @@
           "setAnimatorFloat": [
             {
               "name": "WeaponType",
-              "value": 2.0
+              "ratio": 2.0
             }
           ]
         },
@@ -670,7 +670,7 @@
           "setAnimatorFloat": [
             {
               "name": "WeaponType",
-              "value": 1.0
+              "ratio": 1.0
             }
           ]
         },
@@ -685,7 +685,7 @@
           "setAnimatorFloat": [
             {
               "name": "WeaponType",
-              "value": 1.0
+              "ratio": 1.0
             }
           ]
         },
@@ -709,7 +709,7 @@
           "setAnimatorFloat": [
             {
               "name": "WeaponType",
-              "value": 2.0
+              "ratio": 2.0
             }
           ]
         },
@@ -736,7 +736,7 @@
           "setAnimatorFloat": [
             {
               "name": "WeaponType",
-              "value": 3.0
+              "ratio": 3.0
             }
           ]
         },

@@ -48,7 +48,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Alliance",
+        "target": "Alliance",
         "bornWithTriggerEnabled": false
       },
       "triggerActions": [
@@ -107,7 +107,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Alliance",
+        "target": "Alliance",
         "bornWithTriggerEnabled": false
       },
       "triggerActions": [
@@ -166,7 +166,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Alliance",
+        "target": "Alliance",
         "bornWithTriggerEnabled": false
       },
       "triggerActions": [

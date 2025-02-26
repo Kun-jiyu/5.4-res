@@ -60,7 +60,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -132,7 +132,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {

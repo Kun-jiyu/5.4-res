@@ -678,7 +678,7 @@
           "gadgetState": "GearStart",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_Gear_Gravity_Lv1"
         },
         {
@@ -692,7 +692,7 @@
           "gadgetState": "GearStart",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_Gear_Gravity_Lv2"
         },
         {
@@ -706,7 +706,7 @@
           "gadgetState": "GearStart",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_Gear_Gravity_Lv3"
         },
         {
@@ -720,7 +720,7 @@
           "gadgetState": "GearStart",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_Gear_Gravity_Center"
         }
       ]
@@ -2527,7 +2527,7 @@
             "isStart": true
           },
           "intID": "IsFlying",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "LLHMOKHKBBF",

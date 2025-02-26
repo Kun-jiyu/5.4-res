@@ -100,7 +100,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "triggerActions": [
         {

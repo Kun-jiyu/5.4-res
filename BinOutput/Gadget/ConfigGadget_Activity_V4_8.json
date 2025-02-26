@@ -132,7 +132,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerCD": 0.4000000059604645,
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       },
       "triggerActions": [

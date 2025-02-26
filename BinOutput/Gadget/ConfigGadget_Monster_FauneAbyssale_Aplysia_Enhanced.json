@@ -58,7 +58,7 @@
     "gadget": {
       "$type": "ConfigMultiBulletPattern",
       "collision": {
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -135,7 +135,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true
       },
       "triggerActions": [

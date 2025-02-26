@@ -1606,7 +1606,7 @@
           {
             "filterType": "Vehicle",
             "isForbid": true,
-            "valueList": [
+            "ratioList": [
               "Sorush"
             ]
           }
@@ -2069,25 +2069,25 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "GadgetState",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStop",
           "intID": "GadgetState",
-          "value": 202
+          "ratio": 202
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearAction1",
           "intID": "GadgetState",
-          "value": 203
+          "ratio": 203
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearAction2",
           "intID": "GadgetState",
-          "value": 204
+          "ratio": 204
         }
       ]
     }
@@ -2147,7 +2147,7 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "GadgetState",
-          "value": 201
+          "ratio": 201
         }
       ]
     }
@@ -2446,7 +2446,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "All"
+        "target": "All"
       },
       "triggerActions": [
         {

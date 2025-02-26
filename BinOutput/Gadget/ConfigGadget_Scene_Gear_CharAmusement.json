@@ -1205,7 +1205,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.20000000298023224,
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {

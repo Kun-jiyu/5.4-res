@@ -1138,7 +1138,7 @@
       "collision": {
         "triggerType": "TriggerNoRepeat",
         "triggerCD": 0.20000000298023224,
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -1205,7 +1205,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "thisColliderName": "Collider",
       "targetColliderName": "InteeTrigger"

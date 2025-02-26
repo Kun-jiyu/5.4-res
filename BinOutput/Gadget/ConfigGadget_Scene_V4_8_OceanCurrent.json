@@ -51,7 +51,7 @@
           "type": "Always"
         },
         "triggerType": "TriggerAlways",
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -147,7 +147,7 @@
           "type": "Always"
         },
         "triggerType": "TriggerAlways",
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -1071,7 +1071,7 @@
           "type": "Always"
         },
         "triggerType": "TriggerAlways",
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -1571,7 +1571,7 @@
           "forwardByTransName": "HeadControl",
           "limitHorizontal": 360.0,
           "limitVertical": 0.0,
-          "targetType": "ActionSetTarget",
+          "target": "ActionSetTarget",
           "LOKAEMILAOG": true
         }
       ]

@@ -109,7 +109,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "SelfCamp",
+        "target": "SelfCamp",
         "ignoreScene": true,
         "ignoreWater": true
       },

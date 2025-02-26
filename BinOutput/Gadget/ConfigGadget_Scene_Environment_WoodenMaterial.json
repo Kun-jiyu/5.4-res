@@ -56,7 +56,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -222,7 +222,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {

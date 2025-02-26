@@ -56,7 +56,7 @@
           "type": "Always"
         },
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -124,7 +124,7 @@
           "type": "Always"
         },
         "triggerCD": 0.10000000149011612,
-        "targetType": "AllExceptSelf",
+        "target": "AllExceptSelf",
         "bornWithTriggerEnabled": false
       },
       "triggerActions": [
@@ -182,7 +182,7 @@
           "type": "Always"
         },
         "triggerCD": 0.10000000149011612,
-        "targetType": "AllExceptSelf",
+        "target": "AllExceptSelf",
         "bornWithTriggerEnabled": false
       },
       "fireAISoundEvent": true,
@@ -239,7 +239,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -309,7 +309,7 @@
           "type": "Always"
         },
         "triggerCD": 0.10000000149011612,
-        "targetType": "AllExceptSelf",
+        "target": "AllExceptSelf",
         "bornWithTriggerEnabled": false
       },
       "triggerActions": [
@@ -372,7 +372,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "AllExceptSelf",
+        "target": "AllExceptSelf",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -520,7 +520,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -584,7 +584,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -736,7 +736,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -807,7 +807,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -878,7 +878,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true
       },
       "triggerActions": [

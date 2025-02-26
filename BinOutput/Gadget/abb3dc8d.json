@@ -74,7 +74,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "AllExceptSelf",
+        "target": "AllExceptSelf",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -302,7 +302,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.4000000059604645,
-        "targetType": "All",
+        "target": "All",
         "ignoreScene": true
       },
       "triggerActions": [

@@ -452,7 +452,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "AllExceptSelf",
+        "target": "AllExceptSelf",
         "ignoreScene": true
       },
       "triggerActions": [

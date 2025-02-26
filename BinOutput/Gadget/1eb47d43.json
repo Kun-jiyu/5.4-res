@@ -295,7 +295,7 @@
           "gadgetState": "GearStop",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 202,
+          "ratio": 202,
           "effectPattern": "Eff_Gear_ElementDungeon_Operator"
         },
         {

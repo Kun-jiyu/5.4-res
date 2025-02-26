@@ -98,7 +98,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "ccd": {},
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -160,7 +160,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "ccd": {},
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -248,7 +248,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "ccd": {},
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {

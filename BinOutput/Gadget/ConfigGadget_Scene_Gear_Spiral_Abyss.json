@@ -702,7 +702,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Alliance"
+        "target": "Alliance"
       },
       "triggerActions": [
         {
@@ -917,7 +917,7 @@
           "gadgetState": "GearStop",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 202,
+          "ratio": 202,
           "effectPattern": "Eff_SceneObj_IceStormR25_01"
         }
       ]
@@ -986,7 +986,7 @@
           "gadgetState": "GearStop",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 202,
+          "ratio": 202,
           "effectPattern": "Eff_SceneObj_IceStormR25_01"
         }
       ]
@@ -1076,7 +1076,7 @@
             "isStart": true
           },
           "intID": "IsFlying",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "LLHMOKHKBBF",

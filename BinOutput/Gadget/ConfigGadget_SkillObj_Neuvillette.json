@@ -53,7 +53,7 @@
           "type": "Always"
         },
         "triggerType": "TriggerNoRepeat",
-        "targetType": "SelfCamp",
+        "target": "SelfCamp",
         "ignoreScene": true,
         "ignoreWater": true
       },
@@ -124,7 +124,7 @@
           "type": "Always"
         },
         "triggerType": "TriggerAlways",
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true,
         "LDJNHEIPFDC": true
       },
@@ -274,7 +274,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "SelfCamp",
+        "target": "SelfCamp",
         "ignoreScene": true,
         "ignoreWater": true
       },
@@ -340,7 +340,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true,
         "ignoreWater": true
       },

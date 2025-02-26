@@ -362,7 +362,7 @@
             "isStart": true
           },
           "intID": "IsFlying",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "LLHMOKHKBBF",
@@ -515,13 +515,13 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "State",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearAction1",
           "intID": "State",
-          "value": 203
+          "ratio": 203
         }
       ]
     }
@@ -1092,7 +1092,7 @@
           "gadgetState": "GearStop",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 202,
+          "ratio": 202,
           "effectPattern": "Eff_SceneObj_IceStormR25_01"
         }
       ]
@@ -1204,7 +1204,7 @@
           "gadgetState": "GearStop",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 202,
+          "ratio": 202,
           "effectPattern": "Eff_SceneObj_SnowStorm_01"
         }
       ]
@@ -1324,7 +1324,7 @@
           "gadgetState": "GearStop",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 202,
+          "ratio": 202,
           "effectPattern": "Eff_SceneObj_SnowStorm_01_R120"
         }
       ]
@@ -1996,7 +1996,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -2054,7 +2054,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -2645,7 +2645,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -3006,7 +3006,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -3065,7 +3065,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -3389,7 +3389,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "Alliance",
+        "target": "Alliance",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -3660,7 +3660,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {

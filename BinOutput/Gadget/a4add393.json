@@ -68,7 +68,7 @@
           "forwardByTransName": "RootNode",
           "limitHorizontal": 0.0,
           "limitVertical": 0.0,
-          "targetType": "ActionSetTarget"
+          "target": "ActionSetTarget"
         }
       ]
     },
@@ -101,7 +101,7 @@
           "forwardByTransName": "RootNode",
           "limitHorizontal": 0.0,
           "limitVertical": 0.0,
-          "targetType": "ActionSetTarget"
+          "target": "ActionSetTarget"
         }
       ]
     },
@@ -134,7 +134,7 @@
           "forwardByTransName": "RootNode",
           "limitHorizontal": 0.0,
           "limitVertical": 0.0,
-          "targetType": "ActionSetTarget"
+          "target": "ActionSetTarget"
         }
       ]
     },
@@ -238,7 +238,7 @@
           "$type": "BANKICEHLMO",
           "parameter": "Int",
           "type": "Int",
-          "value": 1,
+          "ratio": 1,
           "effectPattern": "Eff_SceneObj_DragonsDenMachine_01"
         },
         {
@@ -246,7 +246,7 @@
           "gadgetState": "GearStart",
           "parameter": "Int",
           "type": "Int",
-          "value": 2,
+          "ratio": 2,
           "effectPattern": "Eff_SceneObj_DragonsDenMachine_01"
         }
       ]
@@ -413,7 +413,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "AllExceptSelf",
+        "target": "AllExceptSelf",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -490,7 +490,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "triggerActions": [
         {
@@ -559,7 +559,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "AllExceptSelf",
+        "target": "AllExceptSelf",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -637,7 +637,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "triggerActions": [
         {
@@ -727,7 +727,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "colliderCheckOnInit": false,
       "triggerActions": [
@@ -791,7 +791,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "colliderCheckOnInit": false,
       "triggerActions": [
@@ -855,7 +855,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "colliderCheckOnInit": false,
       "triggerActions": [
@@ -919,7 +919,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "colliderCheckOnInit": false,
       "triggerActions": [
@@ -1226,7 +1226,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -1298,7 +1298,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -1369,7 +1369,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Enemy",
+        "target": "Enemy",
         "INNEPNJFOFL": true
       },
       "triggerActions": [
@@ -1440,7 +1440,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -1512,7 +1512,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -1583,7 +1583,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Enemy",
+        "target": "Enemy",
         "INNEPNJFOFL": true
       },
       "triggerActions": [
@@ -1937,7 +1937,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "colliderCheckOnInit": false,
       "triggerActions": [
