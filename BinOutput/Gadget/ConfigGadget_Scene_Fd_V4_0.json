@@ -1955,7 +1955,7 @@
           "gadgetState": "GearStart",
           "parameter": "State",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_ChallengestarterUW_02"
         },
         {
@@ -1963,7 +1963,7 @@
           "gadgetState": "GearStop",
           "parameter": "State",
           "type": "Int",
-          "value": 202,
+          "ratio": 202,
           "effectPattern": "Eff_SceneObj_ChallengestarterUW_02"
         }
       ]
@@ -2042,7 +2042,7 @@
           "gadgetState": "GearStart",
           "parameter": "State",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_Challengestarter_02_UW"
         },
         {
@@ -2050,7 +2050,7 @@
           "gadgetState": "GearStop",
           "parameter": "State",
           "type": "Int",
-          "value": 202,
+          "ratio": 202,
           "effectPattern": "Eff_SceneObj_Challengestarter_02_UW"
         }
       ]
@@ -2129,7 +2129,7 @@
           "gadgetState": "GearStart",
           "parameter": "State",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_ChallengestarterUW_03"
         },
         {
@@ -2137,7 +2137,7 @@
           "gadgetState": "GearStop",
           "parameter": "State",
           "type": "Int",
-          "value": 202,
+          "ratio": 202,
           "effectPattern": "Eff_SceneObj_ChallengestarterUW_03"
         }
       ]
@@ -2216,7 +2216,7 @@
           "gadgetState": "GearStart",
           "parameter": "State",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_Challengestarter_03_UW"
         },
         {
@@ -2224,7 +2224,7 @@
           "gadgetState": "GearStop",
           "parameter": "State",
           "type": "Int",
-          "value": 202,
+          "ratio": 202,
           "effectPattern": "Eff_SceneObj_Challengestarter_03_UW"
         }
       ]
@@ -2303,7 +2303,7 @@
           "gadgetState": "GearStart",
           "parameter": "State",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_ChallengestarterUW_01"
         },
         {
@@ -2311,7 +2311,7 @@
           "gadgetState": "GearStop",
           "parameter": "State",
           "type": "Int",
-          "value": 202,
+          "ratio": 202,
           "effectPattern": "Eff_SceneObj_ChallengestarterUW_01"
         }
       ]
@@ -2390,7 +2390,7 @@
           "gadgetState": "GearStart",
           "parameter": "State",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_Challengestarter_01_UW"
         },
         {
@@ -2398,7 +2398,7 @@
           "gadgetState": "GearStop",
           "parameter": "State",
           "type": "Int",
-          "value": 202,
+          "ratio": 202,
           "effectPattern": "Eff_SceneObj_Challengestarter_01_UW"
         }
       ]
@@ -2476,7 +2476,7 @@
           "gadgetState": "GearStart",
           "parameter": "State",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_ChallengestarterUW_02"
         },
         {
@@ -2484,7 +2484,7 @@
           "gadgetState": "GearStop",
           "parameter": "State",
           "type": "Int",
-          "value": 202,
+          "ratio": 202,
           "effectPattern": "Eff_SceneObj_ChallengestarterUW_02"
         }
       ]
@@ -2562,7 +2562,7 @@
           "gadgetState": "GearStart",
           "parameter": "State",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_ChallengestarterUW_03"
         },
         {
@@ -2570,7 +2570,7 @@
           "gadgetState": "GearStop",
           "parameter": "State",
           "type": "Int",
-          "value": 202,
+          "ratio": 202,
           "effectPattern": "Eff_SceneObj_ChallengestarterUW_03"
         }
       ]
@@ -2648,7 +2648,7 @@
           "gadgetState": "GearStart",
           "parameter": "State",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_ChallengestarterUW_01"
         },
         {
@@ -2656,7 +2656,7 @@
           "gadgetState": "GearStop",
           "parameter": "State",
           "type": "Int",
-          "value": 202,
+          "ratio": 202,
           "effectPattern": "Eff_SceneObj_ChallengestarterUW_01"
         }
       ]

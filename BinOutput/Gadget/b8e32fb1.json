@@ -302,7 +302,7 @@
           "type": "Always"
         },
         "triggerType": "TriggerNoRepeat",
-        "targetType": "AllExceptSelf",
+        "target": "AllExceptSelf",
         "ignoreWater": true
       },
       "triggerActions": [

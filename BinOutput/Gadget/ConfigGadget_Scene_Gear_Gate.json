@@ -784,7 +784,7 @@
           "gadgetState": "GearStart",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_Gear_Temple_02_Electric"
         }
       ]
@@ -849,7 +849,7 @@
           "gadgetState": "GearStart",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_Gear_Temple_02_Rock"
         }
       ]
@@ -914,7 +914,7 @@
           "gadgetState": "GearStart",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_Gear_Temple_02_Wind"
         }
       ]
@@ -951,7 +951,7 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "GadgetState",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
@@ -1028,7 +1028,7 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "GadgetState",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
@@ -1104,7 +1104,7 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "GadgetState",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
@@ -1231,7 +1231,7 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "GadgetState",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
@@ -1296,7 +1296,7 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "GadgetState",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
@@ -1361,7 +1361,7 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "GadgetState",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
@@ -1405,7 +1405,7 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "GadgetState",
-          "value": 201
+          "ratio": 201
         }
       ]
     }
@@ -1480,7 +1480,7 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "State",
-          "value": 201
+          "ratio": 201
         }
       ]
     }

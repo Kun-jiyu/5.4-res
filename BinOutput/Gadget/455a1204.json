@@ -1493,7 +1493,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "All",
+        "target": "All",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -1633,7 +1633,7 @@
           "sortedHitResult": true
         },
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -1694,7 +1694,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "AllExceptSelf",
+        "target": "AllExceptSelf",
         "ignoreWater": true
       },
       "triggerActions": [

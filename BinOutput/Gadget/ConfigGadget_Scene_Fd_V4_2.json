@@ -708,7 +708,7 @@
     "gadget": {
       "$type": "JMLNEMKIPHD",
       "collision": {
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -787,7 +787,7 @@
     "gadget": {
       "$type": "JMLNEMKIPHD",
       "collision": {
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -1652,7 +1652,7 @@
           "forwardByTransName": "FowardPoint",
           "limitHorizontal": 360.0,
           "limitVertical": 0.0,
-          "targetType": "ActionSetTarget",
+          "target": "ActionSetTarget",
           "DCDIKOGJLJM": true
         },
         {
@@ -1664,7 +1664,7 @@
           "forwardByTransName": "FowardPoint_V",
           "limitHorizontal": 0.0,
           "limitVertical": 45.0,
-          "targetType": "ActionSetTarget",
+          "target": "ActionSetTarget",
           "DCDIKOGJLJM": true
         }
       ]
@@ -1983,7 +1983,7 @@
     "gadget": {
       "$type": "JMLNEMKIPHD",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -2057,7 +2057,7 @@
     "gadget": {
       "$type": "JMLNEMKIPHD",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -3089,7 +3089,7 @@
             "isStart": true
           },
           "intID": "IsFlying",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "ANNBJIMELPH",
@@ -4531,7 +4531,7 @@
           "triggerID": "GearStart",
           "parameter": "State",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_ScenObj_SeaProof9M19M_01"
         }
       ]

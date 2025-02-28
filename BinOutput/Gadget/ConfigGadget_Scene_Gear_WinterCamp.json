@@ -476,7 +476,7 @@
           "gadgetState": "GearStart",
           "parameter": "State",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_TriathlonCoin_01"
         }
       ]

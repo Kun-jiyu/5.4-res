@@ -99,7 +99,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "ccd": {},
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -183,7 +183,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Alliance",
+        "target": "Alliance",
         "ignoreScene": true,
         "ignoreWater": true
       },
@@ -273,7 +273,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -357,7 +357,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Alliance",
+        "target": "Alliance",
         "ignoreScene": true,
         "ignoreWater": true
       },
@@ -445,7 +445,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {

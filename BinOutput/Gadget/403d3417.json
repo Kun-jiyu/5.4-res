@@ -186,7 +186,7 @@
         {
           "$type": "LLHMOKHKBBF",
           "intID": "GadgetState",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
@@ -212,7 +212,7 @@
         {
           "$type": "LLHMOKHKBBF",
           "intID": "GadgetState",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
@@ -238,7 +238,7 @@
         {
           "$type": "LLHMOKHKBBF",
           "intID": "GadgetState",
-          "value": 201
+          "ratio": 201
         },
         {
           "$type": "LLHMOKHKBBF",
@@ -1527,7 +1527,7 @@
         {
           "$type": "LLHMOKHKBBF",
           "intID": "ChestState",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "KFLIFMMFLHA",
@@ -1819,7 +1819,7 @@
         {
           "$type": "LLHMOKHKBBF",
           "intID": "ChestState",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "KFLIFMMFLHA",
@@ -1926,7 +1926,7 @@
         {
           "$type": "LLHMOKHKBBF",
           "intID": "ChestState",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "KFLIFMMFLHA",
@@ -2033,7 +2033,7 @@
         {
           "$type": "LLHMOKHKBBF",
           "intID": "ChestState",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "KFLIFMMFLHA",
@@ -3544,7 +3544,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -3616,7 +3616,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "All"
+        "target": "All"
       },
       "triggerActions": [
         {
@@ -3789,7 +3789,7 @@
           "detectCD": 0.009999999776482582,
           "sortedHitResult": true
         },
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -3891,7 +3891,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true,
         "LDJNHEIPFDC": true
       },

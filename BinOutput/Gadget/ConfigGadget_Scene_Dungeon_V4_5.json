@@ -173,7 +173,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All",
+        "target": "All",
         "ignoreScene": true
       },
       "collisionActions": [

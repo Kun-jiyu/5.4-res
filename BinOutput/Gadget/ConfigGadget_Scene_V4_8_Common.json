@@ -78,7 +78,7 @@
           "doOnUnEabled": "Default",
           "forwardByTransName": "RootNode",
           "limitHorizontal": 360.0,
-          "targetType": "ActionSetTarget",
+          "target": "ActionSetTarget",
           "LOKAEMILAOG": true
         }
       ]
@@ -163,7 +163,7 @@
           "doOnUnEabled": "RotateToForward",
           "forwardByTransName": "RootNode",
           "limitHorizontal": 0.0,
-          "targetType": "ActionSetTarget",
+          "target": "ActionSetTarget",
           "LOKAEMILAOG": true
         }
       ]
@@ -314,7 +314,7 @@
           "doOnUnEabled": "Default",
           "forwardByTransName": "RootNode",
           "limitHorizontal": 0.0,
-          "targetType": "ActionSetTarget",
+          "target": "ActionSetTarget",
           "LOKAEMILAOG": true
         }
       ]
@@ -418,7 +418,7 @@
           "forwardByTransName": "RootNode",
           "limitHorizontal": 360.0,
           "limitVertical": 0.0,
-          "targetType": "ActionSetTarget",
+          "target": "ActionSetTarget",
           "LOKAEMILAOG": true
         },
         {
@@ -431,7 +431,7 @@
           "forwardByTransName": "PartControlAxis",
           "limitHorizontal": 0.0,
           "limitVertical": 360.0,
-          "targetType": "ActionSetTarget",
+          "target": "ActionSetTarget",
           "LOKAEMILAOG": true
         }
       ]
@@ -540,7 +540,7 @@
           "forwardByTransName": "RootNode",
           "limitHorizontal": 360.0,
           "limitVertical": 0.0,
-          "targetType": "ActionSetTarget",
+          "target": "ActionSetTarget",
           "LOKAEMILAOG": true
         },
         {
@@ -553,7 +553,7 @@
           "forwardByTransName": "PartControlAxis",
           "limitHorizontal": 0.0,
           "limitVertical": 360.0,
-          "targetType": "ActionSetTarget",
+          "target": "ActionSetTarget",
           "LOKAEMILAOG": true
         }
       ]
@@ -657,7 +657,7 @@
           "forwardByTransName": "RootNode",
           "limitHorizontal": 360.0,
           "limitVertical": 0.0,
-          "targetType": "ActionSetTarget",
+          "target": "ActionSetTarget",
           "LOKAEMILAOG": true
         },
         {
@@ -670,7 +670,7 @@
           "forwardByTransName": "PartControlAxis",
           "limitHorizontal": 0.0,
           "limitVertical": 360.0,
-          "targetType": "ActionSetTarget",
+          "target": "ActionSetTarget",
           "LOKAEMILAOG": true
         }
       ]
@@ -798,7 +798,7 @@
           "forwardByTransName": "PartControl_H",
           "limitHorizontal": 360.0,
           "limitVertical": 0.0,
-          "targetType": "ActionSetTarget",
+          "target": "ActionSetTarget",
           "LOKAEMILAOG": true
         },
         {
@@ -811,7 +811,7 @@
           "forwardByTransName": "PartControl_V",
           "limitHorizontal": 0.0,
           "limitVertical": 360.0,
-          "targetType": "ActionSetTarget",
+          "target": "ActionSetTarget",
           "LOKAEMILAOG": true
         }
       ]
@@ -1067,7 +1067,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "triggerActions": [
         {

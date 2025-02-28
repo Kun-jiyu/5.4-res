@@ -1085,7 +1085,7 @@
               "JJPAGFPDECF": "__DefaultSync__",
               "predicate": {
                 "$type": "OLPIHMOEBIC",
-                "value": true
+                "ratio": true
               },
               "action": {
                 "$type": "ONBAKPGEJII",
@@ -1104,7 +1104,7 @@
               "JJPAGFPDECF": "__DefaultSync__",
               "predicate": {
                 "$type": "OLPIHMOEBIC",
-                "value": true
+                "ratio": true
               },
               "eventName": {
                 "text": "Play_Vo_Vehicle_Natsaurus_Flamingo_Appear"
@@ -1117,7 +1117,7 @@
               "JJPAGFPDECF": "__DefaultSync__",
               "predicate": {
                 "$type": "OLPIHMOEBIC",
-                "value": true
+                "ratio": true
               },
               "eventName": {
                 "text": "Play_Vo_Vehicle_Natsaurus_Flamingo_Disappear"

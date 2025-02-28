@@ -592,7 +592,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -657,7 +657,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -719,7 +719,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.5,
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -781,7 +781,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.25,
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {

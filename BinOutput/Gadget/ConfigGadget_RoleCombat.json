@@ -297,7 +297,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.4000000059604645,
-        "targetType": "All",
+        "target": "All",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -418,7 +418,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.4000000059604645,
-        "targetType": "All",
+        "target": "All",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -763,7 +763,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerCD": 0.4000000059604645,
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -870,7 +870,7 @@
       "collision": {
         "triggerType": "TriggerNoRepeat",
         "triggerCD": 0.4000000059604645,
-        "targetType": "Self",
+        "target": "Self",
         "ignoreScene": true
       },
       "triggerActions": [

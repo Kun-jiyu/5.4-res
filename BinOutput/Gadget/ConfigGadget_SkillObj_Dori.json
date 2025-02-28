@@ -67,7 +67,7 @@
           "type": "Always"
         },
         "triggerCD": 0.5,
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -150,7 +150,7 @@
           "type": "Always"
         },
         "triggerCD": 0.10000000149011612,
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -229,7 +229,7 @@
           "type": "Always"
         },
         "triggerCD": 0.10000000149011612,
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -340,7 +340,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {

@@ -79,7 +79,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -152,7 +152,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -223,7 +223,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -283,7 +283,7 @@
       "collision": {
         "triggerType": "TriggerNoRepeat",
         "triggerCD": 0.20000000298023224,
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerLifeOverActions": [
         {
@@ -400,7 +400,7 @@
       "collision": {
         "triggerType": "TriggerNoRepeat",
         "triggerCD": 0.20000000298023224,
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "killByOther": true
     }
@@ -452,7 +452,7 @@
           "type": "Always"
         },
         "triggerType": "TriggerNoRepeat",
-        "targetType": "All"
+        "target": "All"
       },
       "killByOther": true
     }
@@ -501,7 +501,7 @@
           "type": "Always"
         },
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       },
       "killByOther": true
@@ -554,7 +554,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -652,7 +652,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "ccd": {},
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {

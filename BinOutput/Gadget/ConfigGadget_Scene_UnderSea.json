@@ -297,7 +297,7 @@
           "gadgetState": "GearStart",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_Stages_ArtBoids_VABoids_Storm_GWhite01_FadeIn_01"
         }
       ]
@@ -1269,7 +1269,7 @@
           "gadgetState": "GearStart",
           "parameter": "State",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_ScenObj_SeaProof9M11M_01"
         }
       ]
@@ -1327,7 +1327,7 @@
           "gadgetState": "GearStart",
           "parameter": "Active",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_SpaceRuinPortal_01"
         }
       ]
@@ -2186,7 +2186,7 @@
           "$type": "BANKICEHLMO",
           "parameter": "state",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_ScenObj_Prop_TearsCannon_01_Core_Default"
         },
         {
@@ -2194,7 +2194,7 @@
           "gadgetState": "GearStart",
           "parameter": "state",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_ScenObj_Prop_TearsCannon_01_Core_Default"
         },
         {
@@ -2413,7 +2413,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "All",
+        "target": "All",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -3039,7 +3039,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Alliance",
+        "target": "Alliance",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -3506,7 +3506,7 @@
           "gadgetState": "GearStart",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_UnderSeaFishSpeedUp_01_Idle"
         },
         {
@@ -3562,7 +3562,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -4491,7 +4491,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -5744,7 +5744,7 @@
     "gadget": {
       "$type": "CGHNDKNMPKJ",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "collisionActions": [
         {
@@ -5784,7 +5784,7 @@
     "gadget": {
       "$type": "CGHNDKNMPKJ",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "collisionActions": [
         {
@@ -5865,7 +5865,7 @@
     "gadget": {
       "$type": "CGHNDKNMPKJ",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "collisionActions": [
         {

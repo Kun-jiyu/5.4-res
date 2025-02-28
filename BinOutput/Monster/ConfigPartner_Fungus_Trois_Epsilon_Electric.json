@@ -368,7 +368,7 @@
       "JGFOPCOIJOI": "",
       "targetDistanceScoreSystem": {
         "weight": 100,
-        "value": 8.0,
+        "ratio": 8.0,
         "max": 30.0,
         "enable": true
       }

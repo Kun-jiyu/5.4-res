@@ -130,7 +130,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Alliance",
+        "target": "Alliance",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -360,7 +360,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 5.0,
-        "targetType": "All",
+        "target": "All",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -414,7 +414,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Alliance",
+        "target": "Alliance",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -1281,7 +1281,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "triggerActions": [
         {

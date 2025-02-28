@@ -183,7 +183,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "triggerActions": [
         {
@@ -295,7 +295,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "triggerActions": [
         {
@@ -408,7 +408,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "triggerActions": [
         {
@@ -521,7 +521,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "triggerActions": [
         {
@@ -581,14 +581,14 @@
         "$type": "IFGCLIKKJEG",
         "heightOffset": 9.0,
         "AMMHONABCDB": 6.0,
-        "value": 0.6000000238418579
+        "ratio": 0.6000000238418579
       },
       "LEPHBNFOPBK": 6.0
     },
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "triggerActions": [
         {
@@ -653,7 +653,7 @@
           "$type": "IFGCLIKKJEG",
           "heightOffset": 9.0,
           "AMMHONABCDB": 10.0,
-          "value": 0.800000011920929
+          "ratio": 0.800000011920929
         },
         "GLIEKBONGKD": {
           "$type": "PADKGFNAMNG",
@@ -671,7 +671,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "triggerActions": [
         {
@@ -733,7 +733,7 @@
           "$type": "IFGCLIKKJEG",
           "heightOffset": 7.099999904632568,
           "AMMHONABCDB": 10.0,
-          "value": 0.800000011920929
+          "ratio": 0.800000011920929
         },
         "GLIEKBONGKD": {
           "$type": "PADKGFNAMNG",
@@ -754,7 +754,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "triggerActions": [
         {
@@ -816,7 +816,7 @@
           "$type": "IFGCLIKKJEG",
           "heightOffset": 7.099999904632568,
           "AMMHONABCDB": 10.0,
-          "value": 0.800000011920929
+          "ratio": 0.800000011920929
         },
         "GLIEKBONGKD": {
           "$type": "PADKGFNAMNG",
@@ -838,7 +838,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "triggerActions": [
         {
@@ -900,7 +900,7 @@
           "$type": "IFGCLIKKJEG",
           "heightOffset": 7.099999904632568,
           "AMMHONABCDB": 10.0,
-          "value": 0.800000011920929
+          "ratio": 0.800000011920929
         },
         "GLIEKBONGKD": {
           "$type": "PADKGFNAMNG",
@@ -922,7 +922,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "triggerActions": [
         {
@@ -1005,7 +1005,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "triggerActions": [
         {
@@ -1076,7 +1076,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "triggerActions": [
         {
@@ -1159,7 +1159,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "AllExceptSelf"
+        "target": "AllExceptSelf"
       },
       "triggerActions": [
         {
@@ -2399,31 +2399,31 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "Action01",
           "intID": "Mode",
-          "value": -1
+          "ratio": -1
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "Mode",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStop",
           "intID": "Mode",
-          "value": 2
+          "ratio": 2
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearAction1",
           "intID": "Mode",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearAction2",
           "intID": "Mode",
-          "value": 2
+          "ratio": 2
         }
       ]
     }

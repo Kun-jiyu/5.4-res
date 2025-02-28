@@ -86,7 +86,7 @@
       "collision": {
         "triggerType": "TriggerNoRepeat",
         "triggerCD": 0.10000000149011612,
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -158,7 +158,7 @@
       "collision": {
         "triggerType": "TriggerNoRepeat",
         "triggerCD": 0.10000000149011612,
-        "targetType": "All",
+        "target": "All",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -235,7 +235,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.10000000149011612,
-        "targetType": "All",
+        "target": "All",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -312,7 +312,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.10000000149011612,
-        "targetType": "All",
+        "target": "All",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -378,7 +378,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.20000000298023224,
-        "targetType": "AllExceptSelf",
+        "target": "AllExceptSelf",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -450,7 +450,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.20000000298023224,
-        "targetType": "AllExceptSelf",
+        "target": "AllExceptSelf",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -523,7 +523,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.20000000298023224,
-        "targetType": "AllExceptSelf",
+        "target": "AllExceptSelf",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -731,7 +731,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.10000000149011612,
-        "targetType": "All",
+        "target": "All",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -808,7 +808,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.10000000149011612,
-        "targetType": "All",
+        "target": "All",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -874,7 +874,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -948,7 +948,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.10000000149011612,
-        "targetType": "All",
+        "target": "All",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -1025,7 +1025,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.10000000149011612,
-        "targetType": "All",
+        "target": "All",
         "ignoreWater": true
       },
       "triggerActions": [
@@ -1193,7 +1193,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.10000000149011612,
-        "targetType": "All",
+        "target": "All",
         "ignoreWater": true
       },
       "triggerActions": [

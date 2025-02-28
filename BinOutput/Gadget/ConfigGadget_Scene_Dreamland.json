@@ -240,7 +240,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "SelfCamp",
+        "target": "SelfCamp",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -3496,7 +3496,7 @@
           "gadgetState": "Action01",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 901,
+          "ratio": 901,
           "effectPattern": "Eff_SceneObj_Gear_Gravity_Lv1"
         },
         {
@@ -3504,7 +3504,7 @@
           "gadgetState": "GearStart",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_Gear_Gravity_Lv1"
         },
         {
@@ -3512,7 +3512,7 @@
           "gadgetState": "GearAction2",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 204,
+          "ratio": 204,
           "effectPattern": "Eff_SceneObj_Gear_Gravity_Lv1"
         },
         {
@@ -3526,7 +3526,7 @@
           "gadgetState": "GearStart",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_Gear_Gravity_Center"
         },
         {
@@ -3534,7 +3534,7 @@
           "gadgetState": "GearAction2",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 204,
+          "ratio": 204,
           "effectPattern": "Eff_SceneObj_Gear_Gravity_Center"
         }
       ]

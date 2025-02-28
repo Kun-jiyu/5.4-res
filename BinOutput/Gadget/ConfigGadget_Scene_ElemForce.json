@@ -239,7 +239,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.5,
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       }
     }
@@ -334,7 +334,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -381,7 +381,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -428,7 +428,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -475,7 +475,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -522,7 +522,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -569,7 +569,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -616,7 +616,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -663,7 +663,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -710,7 +710,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -757,7 +757,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -804,7 +804,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -851,7 +851,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -898,7 +898,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -945,7 +945,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -1035,7 +1035,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "All",
+        "target": "All",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -1181,7 +1181,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.5,
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       }
     }
@@ -1234,7 +1234,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 3.0,
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       },
       "maxAutoKillDist": 180.0
@@ -1445,7 +1445,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.5,
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       }
     }
@@ -1504,7 +1504,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.5,
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       }
     }
@@ -1563,7 +1563,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.5,
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       }
     }

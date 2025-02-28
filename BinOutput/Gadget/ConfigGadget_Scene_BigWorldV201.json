@@ -1474,7 +1474,7 @@
         {
           "$type": "LLHMOKHKBBF",
           "intID": "ChestState",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "KFLIFMMFLHA",
@@ -1868,31 +1868,31 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "State",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStop",
           "intID": "State",
-          "value": 2
+          "ratio": 2
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearAction1",
           "intID": "State",
-          "value": 3
+          "ratio": 3
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearAction2",
           "intID": "State",
-          "value": 4
+          "ratio": 4
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "Action01",
           "intID": "State",
-          "value": 5
+          "ratio": 5
         }
       ]
     }
@@ -1982,31 +1982,31 @@
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStart",
           "intID": "State",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearStop",
           "intID": "State",
-          "value": 2
+          "ratio": 2
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearAction1",
           "intID": "State",
-          "value": 3
+          "ratio": 3
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "GearAction2",
           "intID": "State",
-          "value": 4
+          "ratio": 4
         },
         {
           "$type": "LLHMOKHKBBF",
           "gadgetState": "Action01",
           "intID": "State",
-          "value": 5
+          "ratio": 5
         }
       ]
     }

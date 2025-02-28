@@ -157,7 +157,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -1316,18 +1316,18 @@
       "serverGlobalValues": [
         "SGV_Broadcast_GV_Tag",
         "SGV_Is_Revert",
-        "SGV_ani_timeback_value_min",
-        "SGV_ani_timeback_value_max",
-        "SGV_eff_timeback_value_min",
-        "SGV_eff_timeback_value_max"
+        "SGV_ani_timeback_ratio_min",
+        "SGV_ani_timeback_ratio_max",
+        "SGV_eff_timeback_ratio_min",
+        "SGV_eff_timeback_ratio_max"
       ],
       "initServerGlobalValues": {
         "SGV_Broadcast_GV_Tag": 0.0,
         "SGV_Is_Revert": 0.0,
-        "SGV_ani_timeback_value_min": 0.0,
-        "SGV_ani_timeback_value_max": 0.0,
-        "SGV_eff_timeback_value_min": 0.0,
-        "SGV_eff_timeback_value_max": 0.0
+        "SGV_ani_timeback_ratio_min": 0.0,
+        "SGV_ani_timeback_ratio_max": 0.0,
+        "SGV_eff_timeback_ratio_min": 0.0,
+        "SGV_eff_timeback_ratio_max": 0.0
       }
     },
     "hasModel": true,
@@ -1372,18 +1372,18 @@
       "serverGlobalValues": [
         "SGV_Broadcast_GV_Tag",
         "SGV_Is_Revert",
-        "SGV_ani_timeback_value_min",
-        "SGV_ani_timeback_value_max",
-        "SGV_eff_timeback_value_min",
-        "SGV_eff_timeback_value_max"
+        "SGV_ani_timeback_ratio_min",
+        "SGV_ani_timeback_ratio_max",
+        "SGV_eff_timeback_ratio_min",
+        "SGV_eff_timeback_ratio_max"
       ],
       "initServerGlobalValues": {
         "SGV_Broadcast_GV_Tag": 0.0,
         "SGV_Is_Revert": 0.0,
-        "SGV_ani_timeback_value_min": 0.0,
-        "SGV_ani_timeback_value_max": 0.0,
-        "SGV_eff_timeback_value_min": 0.0,
-        "SGV_eff_timeback_value_max": 0.0
+        "SGV_ani_timeback_ratio_min": 0.0,
+        "SGV_ani_timeback_ratio_max": 0.0,
+        "SGV_eff_timeback_ratio_min": 0.0,
+        "SGV_eff_timeback_ratio_max": 0.0
       }
     },
     "hasModel": true,
@@ -1428,18 +1428,18 @@
       "serverGlobalValues": [
         "SGV_Broadcast_GV_Tag",
         "SGV_Is_Revert",
-        "SGV_ani_timeback_value_min",
-        "SGV_ani_timeback_value_max",
-        "SGV_eff_timeback_value_min",
-        "SGV_eff_timeback_value_max"
+        "SGV_ani_timeback_ratio_min",
+        "SGV_ani_timeback_ratio_max",
+        "SGV_eff_timeback_ratio_min",
+        "SGV_eff_timeback_ratio_max"
       ],
       "initServerGlobalValues": {
         "SGV_Broadcast_GV_Tag": 0.0,
         "SGV_Is_Revert": 0.0,
-        "SGV_ani_timeback_value_min": 0.0,
-        "SGV_ani_timeback_value_max": 0.0,
-        "SGV_eff_timeback_value_min": 0.0,
-        "SGV_eff_timeback_value_max": 0.0
+        "SGV_ani_timeback_ratio_min": 0.0,
+        "SGV_ani_timeback_ratio_max": 0.0,
+        "SGV_eff_timeback_ratio_min": 0.0,
+        "SGV_eff_timeback_ratio_max": 0.0
       }
     },
     "hasModel": true,
@@ -1484,18 +1484,18 @@
       "serverGlobalValues": [
         "SGV_Broadcast_GV_Tag",
         "SGV_Is_Revert",
-        "SGV_ani_timeback_value_min",
-        "SGV_ani_timeback_value_max",
-        "SGV_eff_timeback_value_min",
-        "SGV_eff_timeback_value_max"
+        "SGV_ani_timeback_ratio_min",
+        "SGV_ani_timeback_ratio_max",
+        "SGV_eff_timeback_ratio_min",
+        "SGV_eff_timeback_ratio_max"
       ],
       "initServerGlobalValues": {
         "SGV_Broadcast_GV_Tag": 0.0,
         "SGV_Is_Revert": 0.0,
-        "SGV_ani_timeback_value_min": 0.0,
-        "SGV_ani_timeback_value_max": 0.0,
-        "SGV_eff_timeback_value_min": 0.0,
-        "SGV_eff_timeback_value_max": 0.0
+        "SGV_ani_timeback_ratio_min": 0.0,
+        "SGV_ani_timeback_ratio_max": 0.0,
+        "SGV_eff_timeback_ratio_min": 0.0,
+        "SGV_eff_timeback_ratio_max": 0.0
       }
     },
     "hasModel": true,
@@ -1540,22 +1540,22 @@
       "serverGlobalValues": [
         "SGV_Broadcast_GV_Tag",
         "SGV_Is_Revert",
-        "SGV_shader_timeback_value_min",
-        "SGV_ani_timeback_value_min",
-        "SGV_ani_timeback_value_max",
-        "SGV_shader_timeback_value_max",
-        "SGV_eff_timeback_value_min",
-        "SGV_eff_timeback_value_max"
+        "SGV_shader_timeback_ratio_min",
+        "SGV_ani_timeback_ratio_min",
+        "SGV_ani_timeback_ratio_max",
+        "SGV_shader_timeback_ratio_max",
+        "SGV_eff_timeback_ratio_min",
+        "SGV_eff_timeback_ratio_max"
       ],
       "initServerGlobalValues": {
         "SGV_Broadcast_GV_Tag": 0.0,
         "SGV_Is_Revert": 0.0,
-        "SGV_shader_timeback_value_min": 0.0,
-        "SGV_shader_timeback_value_max": 0.0,
-        "SGV_ani_timeback_value_min": 0.0,
-        "SGV_ani_timeback_value_max": 0.0,
-        "SGV_eff_timeback_value_min": 0.0,
-        "SGV_eff_timeback_value_max": 0.0
+        "SGV_shader_timeback_ratio_min": 0.0,
+        "SGV_shader_timeback_ratio_max": 0.0,
+        "SGV_ani_timeback_ratio_min": 0.0,
+        "SGV_ani_timeback_ratio_max": 0.0,
+        "SGV_eff_timeback_ratio_min": 0.0,
+        "SGV_eff_timeback_ratio_max": 0.0
       }
     },
     "hasModel": true,
@@ -1600,22 +1600,22 @@
       "serverGlobalValues": [
         "SGV_Broadcast_GV_Tag",
         "SGV_Is_Revert",
-        "SGV_shader_timeback_value_min",
-        "SGV_ani_timeback_value_min",
-        "SGV_ani_timeback_value_max",
-        "SGV_shader_timeback_value_max",
-        "SGV_eff_timeback_value_min",
-        "SGV_eff_timeback_value_max"
+        "SGV_shader_timeback_ratio_min",
+        "SGV_ani_timeback_ratio_min",
+        "SGV_ani_timeback_ratio_max",
+        "SGV_shader_timeback_ratio_max",
+        "SGV_eff_timeback_ratio_min",
+        "SGV_eff_timeback_ratio_max"
       ],
       "initServerGlobalValues": {
         "SGV_Broadcast_GV_Tag": 0.0,
         "SGV_Is_Revert": 0.0,
-        "SGV_shader_timeback_value_min": 0.0,
-        "SGV_shader_timeback_value_max": 0.0,
-        "SGV_ani_timeback_value_min": 0.0,
-        "SGV_ani_timeback_value_max": 0.0,
-        "SGV_eff_timeback_value_min": 0.0,
-        "SGV_eff_timeback_value_max": 0.0
+        "SGV_shader_timeback_ratio_min": 0.0,
+        "SGV_shader_timeback_ratio_max": 0.0,
+        "SGV_ani_timeback_ratio_min": 0.0,
+        "SGV_ani_timeback_ratio_max": 0.0,
+        "SGV_eff_timeback_ratio_min": 0.0,
+        "SGV_eff_timeback_ratio_max": 0.0
       }
     },
     "hasModel": true,
@@ -1660,14 +1660,14 @@
       "serverGlobalValues": [
         "SGV_Broadcast_GV_Tag",
         "SGV_Is_Revert",
-        "SGV_ani_timeback_value_min",
-        "SGV_ani_timeback_value_max"
+        "SGV_ani_timeback_ratio_min",
+        "SGV_ani_timeback_ratio_max"
       ],
       "initServerGlobalValues": {
         "SGV_Broadcast_GV_Tag": 0.0,
         "SGV_Is_Revert": 0.0,
-        "SGV_ani_timeback_value_min": 0.0,
-        "SGV_ani_timeback_value_max": 0.0
+        "SGV_ani_timeback_ratio_min": 0.0,
+        "SGV_ani_timeback_ratio_max": 0.0
       }
     },
     "hasModel": true,
@@ -1712,14 +1712,14 @@
       "serverGlobalValues": [
         "SGV_Broadcast_GV_Tag",
         "SGV_Is_Revert",
-        "SGV_ani_timeback_value_min",
-        "SGV_ani_timeback_value_max"
+        "SGV_ani_timeback_ratio_min",
+        "SGV_ani_timeback_ratio_max"
       ],
       "initServerGlobalValues": {
         "SGV_Broadcast_GV_Tag": 0.0,
         "SGV_Is_Revert": 0.0,
-        "SGV_ani_timeback_value_min": 0.0,
-        "SGV_ani_timeback_value_max": 0.0
+        "SGV_ani_timeback_ratio_min": 0.0,
+        "SGV_ani_timeback_ratio_max": 0.0
       }
     },
     "hasModel": true,
@@ -1764,14 +1764,14 @@
       "serverGlobalValues": [
         "SGV_Broadcast_GV_Tag",
         "SGV_Is_Revert",
-        "SGV_ani_timeback_value_min",
-        "SGV_ani_timeback_value_max"
+        "SGV_ani_timeback_ratio_min",
+        "SGV_ani_timeback_ratio_max"
       ],
       "initServerGlobalValues": {
         "SGV_Broadcast_GV_Tag": 0.0,
         "SGV_Is_Revert": 0.0,
-        "SGV_ani_timeback_value_min": 0.0,
-        "SGV_ani_timeback_value_max": 0.0
+        "SGV_ani_timeback_ratio_min": 0.0,
+        "SGV_ani_timeback_ratio_max": 0.0
       }
     },
     "hasModel": true,
@@ -1821,15 +1821,15 @@
       "serverGlobalValues": [
         "SGV_Broadcast_GV_Tag",
         "SGV_Is_Revert",
-        "SGV_eff_timeback_value_min",
-        "SGV_eff_timeback_value_max",
+        "SGV_eff_timeback_ratio_min",
+        "SGV_eff_timeback_ratio_max",
         "SGV_Can_Be_Controlled"
       ],
       "initServerGlobalValues": {
         "SGV_Broadcast_GV_Tag": 0.0,
         "SGV_Is_Revert": 0.0,
-        "SGV_eff_timeback_value_min": 0.0,
-        "SGV_eff_timeback_value_max": 0.0,
+        "SGV_eff_timeback_ratio_min": 0.0,
+        "SGV_eff_timeback_ratio_max": 0.0,
         "SGV_Can_Be_Controlled": 0.0
       }
     },
@@ -1923,15 +1923,15 @@
       "serverGlobalValues": [
         "SGV_Broadcast_GV_Tag",
         "SGV_Is_Revert",
-        "SGV_eff_timeback_value_min",
-        "SGV_eff_timeback_value_max",
+        "SGV_eff_timeback_ratio_min",
+        "SGV_eff_timeback_ratio_max",
         "SGV_Can_Be_Controlled"
       ],
       "initServerGlobalValues": {
         "SGV_Broadcast_GV_Tag": 0.0,
         "SGV_Is_Revert": 0.0,
-        "SGV_eff_timeback_value_min": 0.0,
-        "SGV_eff_timeback_value_max": 0.0,
+        "SGV_eff_timeback_ratio_min": 0.0,
+        "SGV_eff_timeback_ratio_max": 0.0,
         "SGV_Can_Be_Controlled": 0.0
       }
     },
@@ -2025,15 +2025,15 @@
       "serverGlobalValues": [
         "SGV_Broadcast_GV_Tag",
         "SGV_Is_Revert",
-        "SGV_eff_timeback_value_min",
-        "SGV_eff_timeback_value_max",
+        "SGV_eff_timeback_ratio_min",
+        "SGV_eff_timeback_ratio_max",
         "SGV_Can_Be_Controlled"
       ],
       "initServerGlobalValues": {
         "SGV_Broadcast_GV_Tag": 0.0,
         "SGV_Is_Revert": 0.0,
-        "SGV_eff_timeback_value_min": 0.0,
-        "SGV_eff_timeback_value_max": 0.0,
+        "SGV_eff_timeback_ratio_min": 0.0,
+        "SGV_eff_timeback_ratio_max": 0.0,
         "SGV_Can_Be_Controlled": 0.0
       }
     },
@@ -3592,7 +3592,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -3662,7 +3662,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       },
       "triggerActions": [

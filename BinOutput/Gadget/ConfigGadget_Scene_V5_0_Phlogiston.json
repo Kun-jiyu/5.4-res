@@ -573,7 +573,7 @@
         },
         "triggerType": "TriggerAlways",
         "triggerCD": 2.0,
-        "targetType": "AllExceptSelf",
+        "target": "AllExceptSelf",
         "ignoreScene": true,
         "ignoreWater": true
       },

@@ -81,7 +81,7 @@
           "gadgetState": "GearStop",
           "parameter": "GadgetState",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_TZDSniper_Core"
         }
       ]
@@ -168,7 +168,7 @@
           "gadgetState": "GearStop",
           "parameter": "GadgetState",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_TZDSniper_Core"
         }
       ]
@@ -231,7 +231,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "All"
+        "target": "All"
       },
       "triggerActions": [
         {

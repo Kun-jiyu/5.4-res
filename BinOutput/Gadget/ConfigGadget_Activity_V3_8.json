@@ -49,7 +49,7 @@
           "gadgetState": "GearStop",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 202,
+          "ratio": 202,
           "effectPattern": "Eff_Gear_ElementDungeon_Operator"
         },
         {
@@ -163,7 +163,7 @@
         {
           "$type": "LLHMOKHKBBF",
           "intID": "ChestState",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "KFLIFMMFLHA",
@@ -277,7 +277,7 @@
         {
           "$type": "LLHMOKHKBBF",
           "intID": "ChestState",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "KFLIFMMFLHA",
@@ -391,7 +391,7 @@
         {
           "$type": "LLHMOKHKBBF",
           "intID": "ChestState",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "KFLIFMMFLHA",
@@ -505,7 +505,7 @@
         {
           "$type": "LLHMOKHKBBF",
           "intID": "ChestState",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "KFLIFMMFLHA",

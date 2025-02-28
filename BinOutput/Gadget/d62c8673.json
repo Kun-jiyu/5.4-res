@@ -1122,7 +1122,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "thisColliderName": "Collider",
       "targetColliderName": "InteeTrigger"

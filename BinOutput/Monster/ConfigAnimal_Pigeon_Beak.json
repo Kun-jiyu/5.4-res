@@ -201,7 +201,7 @@
           "setAnimatorFloat": [
             {
               "name": "SignalType",
-              "value": 1.0
+              "ratio": 1.0
             }
           ]
         },
@@ -216,7 +216,7 @@
           "setAnimatorFloat": [
             {
               "name": "SignalType",
-              "value": 2.0
+              "ratio": 2.0
             }
           ]
         },
@@ -231,7 +231,7 @@
           "setAnimatorFloat": [
             {
               "name": "SignalType",
-              "value": 3.0
+              "ratio": 3.0
             }
           ]
         },
@@ -246,7 +246,7 @@
           "setAnimatorFloat": [
             {
               "name": "SignalType",
-              "value": 4.0
+              "ratio": 4.0
             }
           ]
         },
@@ -261,7 +261,7 @@
           "setAnimatorFloat": [
             {
               "name": "SignalType",
-              "value": 5.0
+              "ratio": 5.0
             }
           ]
         }

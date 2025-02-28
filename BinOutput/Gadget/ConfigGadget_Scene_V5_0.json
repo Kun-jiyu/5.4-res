@@ -1466,7 +1466,7 @@
           "gadgetState": "GearStart",
           "parameter": "gadgetState",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_Stages_JSAbyss_NT_JSLY_01"
         }
       ]
@@ -2059,7 +2059,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "Alliance",
+        "target": "Alliance",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -2125,7 +2125,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "Alliance",
+        "target": "Alliance",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -5049,7 +5049,7 @@
             "isStart": true
           },
           "intID": "IsFlying",
-          "value": 1
+          "ratio": 1
         },
         {
           "$type": "LLHMOKHKBBF",
@@ -7175,7 +7175,7 @@
           "gadgetState": "GearStop",
           "parameter": "GadgetState",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_TZDSniper_Core"
         }
       ]
@@ -7238,7 +7238,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "All"
+        "target": "All"
       },
       "triggerActions": [
         {
@@ -7895,7 +7895,7 @@
           "gadgetState": "GearStart",
           "parameter": "GadgetState",
           "type": "Int",
-          "value": 201,
+          "ratio": 201,
           "effectPattern": "Eff_SceneObj_Stages_Nt_NyxBattleEffect_01"
         },
         {
@@ -8126,7 +8126,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {

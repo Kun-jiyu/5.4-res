@@ -237,7 +237,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -302,7 +302,7 @@
     "gadget": {
       "$type": "ConfigMultiBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -377,7 +377,7 @@
     "gadget": {
       "$type": "ConfigMultiBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -653,7 +653,7 @@
           "type": "Always"
         },
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "triggerActions": [
         {
@@ -716,7 +716,7 @@
           "type": "Always"
         },
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "triggerActions": [
         {
@@ -779,7 +779,7 @@
           "type": "Always"
         },
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "triggerActions": [
         {
@@ -847,7 +847,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -915,7 +915,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 1.0,
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -977,7 +977,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.800000011920929,
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -1057,7 +1057,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "All"
+        "target": "All"
       },
       "triggerActions": [
         {
@@ -1237,7 +1237,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "All"
+        "target": "All"
       },
       "triggerActions": [
         {
@@ -1311,7 +1311,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "All"
+        "target": "All"
       },
       "triggerActions": [
         {
@@ -1385,7 +1385,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "All"
+        "target": "All"
       },
       "triggerActions": [
         {
@@ -1459,7 +1459,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "triggerActions": [
         {
@@ -1522,7 +1522,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "triggerActions": [
         {
@@ -1585,7 +1585,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "triggerActions": [
         {

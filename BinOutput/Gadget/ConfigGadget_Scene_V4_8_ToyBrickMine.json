@@ -818,7 +818,7 @@
           "forwardByTransName": "RootNode",
           "limitHorizontal": 360.0,
           "limitVertical": 0.0,
-          "targetType": "ActionSetTarget",
+          "target": "ActionSetTarget",
           "LOKAEMILAOG": true
         }
       ]

@@ -54,7 +54,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Alliance"
+        "target": "Alliance"
       },
       "triggerActions": [
         {
@@ -128,7 +128,7 @@
       "$type": "ConfigGadgetCollidedPattern",
       "collision": {
         "triggerCD": 0.30000001192092896,
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -211,7 +211,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "All"
+        "target": "All"
       },
       "triggerActions": [
         {

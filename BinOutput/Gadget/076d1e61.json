@@ -45,7 +45,7 @@
         },
         "triggerType": "TriggerAlways",
         "triggerCD": 1.0,
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {

@@ -744,7 +744,7 @@
           "rotateBy": "ForwardTransLocal",
           "forwardByTransName": "ShootPoint",
           "limitVertical": 60.0,
-          "targetType": "ActionSetTarget"
+          "target": "ActionSetTarget"
         }
       ]
     },
@@ -897,7 +897,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -3035,7 +3035,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -5935,7 +5935,7 @@
       "$type": "CGHNDKNMPKJ",
       "collision": {
         "triggerType": "TriggerAlways",
-        "targetType": "All"
+        "target": "All"
       },
       "collisionActions": [
         {
@@ -6384,7 +6384,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -7429,7 +7429,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "AllExceptSelf",
+        "target": "AllExceptSelf",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -7956,7 +7956,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "Enemy"
+        "target": "Enemy"
       },
       "triggerActions": [
         {
@@ -8116,7 +8116,7 @@
         "filterList": [
           {
             "filterType": "Vehicle",
-            "valueList": [
+            "ratioList": [
               "Sorush"
             ]
           }

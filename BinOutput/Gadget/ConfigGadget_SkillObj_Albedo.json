@@ -67,7 +67,7 @@
       "collision": {
         "triggerType": "TriggerAlways",
         "triggerCD": 0.30000001192092896,
-        "targetType": "All",
+        "target": "All",
         "ignoreScene": true,
         "ignoreWater": true,
         "bornWithTriggerEnabled": false
@@ -197,7 +197,7 @@
         "ccd": {
           "type": "Always"
         },
-        "targetType": "Enemy",
+        "target": "Enemy",
         "ignoreWater": true
       },
       "triggerActions": [

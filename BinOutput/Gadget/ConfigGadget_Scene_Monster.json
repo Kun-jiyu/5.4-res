@@ -135,7 +135,7 @@
     "gadget": {
       "$type": "ConfigBulletPattern",
       "collision": {
-        "targetType": "SelfCamp",
+        "target": "SelfCamp",
         "ignoreScene": true
       },
       "triggerActions": [
@@ -226,7 +226,7 @@
       "$type": "ConfigBulletPattern",
       "collision": {
         "triggerType": "TriggerNoRepeat",
-        "targetType": "SelfCamp",
+        "target": "SelfCamp",
         "ignoreScene": true
       },
       "triggerActions": [
