@@ -2381,7 +2381,7 @@
           "onThinkInterval": [
             {
               "$type": "LoseHP",
-              "amountByTargetCurrentHPRatio": "HowlingSoul_LifeCostRatio",
+              "unknown2": "HowlingSoul_LifeCostRatio",
               "lethal": false,
               "PBCBMOABHOJ": "",
               "MOABCABKGLN": ""
